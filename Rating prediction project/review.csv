@@ -1,0 +1,5475 @@
+,Review,Rating
+0,Nice product,4
+1,Good choice,4
+2,Classy product,5
+3,Moderate,5
+4,Super!,4
+5,Nice product,5
+6,Mind-blowing purchase,5
+7,Mind-blowing purchase,4
+8,Good choice,4
+9,Delightful,4
+10,Value-for-money,4
+11,Nice product,4
+12,Delightful,5
+13,Expected a better product,4
+14,Must buy!,5
+15,Delightful,5
+16,Super!,3
+17,Highly recommended,5
+18,Nice,4
+19,Classy product,4
+20,Nice product,5
+21,Good choice,5
+22,Classy product,4
+23,Moderate,5
+24,Super!,5
+25,Nice product,4
+26,Mind-blowing purchase,4
+27,Mind-blowing purchase,4
+28,Good choice,4
+29,Delightful,4
+30,Value-for-money,5
+31,Nice product,4
+32,Delightful,5
+33,Expected a better product,5
+34,Must buy!,3
+35,Delightful,5
+36,Super!,4
+37,Highly recommended,4
+38,Nice,5
+39,Classy product,5
+40,Nice product,4
+41,Good choice,5
+42,Classy product,5
+43,Moderate,4
+44,Super!,4
+45,Nice product,4
+46,Mind-blowing purchase,4
+47,Mind-blowing purchase,4
+48,Good choice,5
+49,Delightful,4
+50,Value-for-money,5
+51,Nice product,5
+52,Delightful,3
+53,Expected a better product,5
+54,Must buy!,4
+55,Delightful,4
+56,Super!,5
+57,Highly recommended,5
+58,Nice,4
+59,Classy product,5
+60,Nice product,5
+61,Good choice,4
+62,Classy product,4
+63,Moderate,4
+64,Super!,4
+65,Nice product,4
+66,Mind-blowing purchase,5
+67,Mind-blowing purchase,4
+68,Good choice,5
+69,Delightful,5
+70,Value-for-money,3
+71,Nice product,5
+72,Delightful,4
+73,Expected a better product,4
+74,Must buy!,5
+75,Delightful,5
+76,Super!,4
+77,Highly recommended,5
+78,Nice,5
+79,Classy product,4
+80,Nice product,4
+81,Good choice,4
+82,Classy product,4
+83,Moderate,4
+84,Super!,5
+85,Nice product,4
+86,Mind-blowing purchase,5
+87,Mind-blowing purchase,5
+88,Good choice,3
+89,Delightful,5
+90,Value-for-money,4
+91,Nice product,4
+92,Delightful,5
+93,Expected a better product,5
+94,Must buy!,4
+95,Delightful,5
+96,Super!,5
+97,Highly recommended,4
+98,Nice,4
+99,Classy product,4
+100,Nice product,4
+101,Good choice,4
+102,Classy product,5
+103,Moderate,4
+104,Super!,5
+105,Nice product,5
+106,Mind-blowing purchase,3
+107,Mind-blowing purchase,5
+108,Good choice,4
+109,Delightful,4
+110,Value-for-money,5
+111,Nice product,5
+112,Delightful,4
+113,Expected a better product,5
+114,Must buy!,5
+115,Delightful,4
+116,Super!,4
+117,Highly recommended,4
+118,Nice,4
+119,Classy product,4
+120,Nice product,5
+121,Good choice,4
+122,Classy product,5
+123,Moderate,5
+124,Super!,3
+125,Nice product,5
+126,Mind-blowing purchase,4
+127,Mind-blowing purchase,4
+128,Good choice,5
+129,Delightful,5
+130,Value-for-money,4
+131,Nice product,5
+132,Delightful,5
+133,Expected a better product,4
+134,Must buy!,4
+135,Delightful,4
+136,Super!,4
+137,Highly recommended,4
+138,Nice,5
+139,Classy product,4
+140,Nice product,5
+141,Good choice,5
+142,Classy product,3
+143,Moderate,5
+144,Super!,4
+145,Nice product,4
+146,Mind-blowing purchase,5
+147,Mind-blowing purchase,5
+148,Good choice,4
+149,Delightful,5
+150,Value-for-money,5
+151,Nice product,4
+152,Delightful,4
+153,Expected a better product,4
+154,Must buy!,4
+155,Delightful,4
+156,Super!,5
+157,Highly recommended,4
+158,Nice,5
+159,Classy product,5
+160,Nice product,3
+161,Good choice,5
+162,Classy product,4
+163,Moderate,4
+164,Super!,5
+165,Nice product,5
+166,Mind-blowing purchase,4
+167,Mind-blowing purchase,5
+168,Good choice,5
+169,Delightful,4
+170,Value-for-money,4
+171,Nice product,4
+172,Delightful,4
+173,Expected a better product,4
+174,Must buy!,5
+175,Delightful,4
+176,Super!,5
+177,Highly recommended,5
+178,Nice,3
+179,Classy product,5
+180,Nice product,4
+181,Good choice,4
+182,Classy product,5
+183,Moderate,5
+184,Super!,4
+185,Nice product,5
+186,Mind-blowing purchase,5
+187,Mind-blowing purchase,4
+188,Good choice,4
+189,Delightful,4
+190,Value-for-money,4
+191,Nice product,4
+192,Delightful,5
+193,Expected a better product,4
+194,Must buy!,5
+195,Delightful,5
+196,Super!,3
+197,Highly recommended,5
+198,Nice,4
+199,Classy product,4
+200,Nice product,5
+201,Good choice,5
+202,Classy product,4
+203,Moderate,5
+204,Super!,5
+205,Nice product,4
+206,Mind-blowing purchase,4
+207,Mind-blowing purchase,4
+208,Good choice,4
+209,Delightful,4
+210,Value-for-money,5
+211,Nice product,4
+212,Delightful,5
+213,Expected a better product,5
+214,Must buy!,3
+215,Delightful,5
+216,Super!,4
+217,Highly recommended,4
+218,Nice,5
+219,Classy product,5
+220,Nice product,4
+221,Good choice,5
+222,Classy product,5
+223,Moderate,4
+224,Super!,4
+225,Nice product,4
+226,Mind-blowing purchase,4
+227,Mind-blowing purchase,4
+228,Good choice,5
+229,Delightful,4
+230,Value-for-money,5
+231,Nice product,5
+232,Delightful,3
+233,Expected a better product,5
+234,Must buy!,4
+235,Delightful,4
+236,Super!,5
+237,Highly recommended,5
+238,Nice,4
+239,Classy product,5
+240,Nice product,5
+241,Good choice,4
+242,Classy product,4
+243,Moderate,4
+244,Super!,4
+245,Nice product,4
+246,Mind-blowing purchase,5
+247,Mind-blowing purchase,4
+248,Good choice,5
+249,Delightful,5
+250,Value-for-money,3
+251,Nice product,5
+252,Delightful,4
+253,Expected a better product,4
+254,Must buy!,5
+255,Delightful,5
+256,Super!,4
+257,Highly recommended,5
+258,Nice,5
+259,Classy product,4
+260,Nice product,4
+261,Good choice,4
+262,Classy product,4
+263,Moderate,4
+264,Super!,5
+265,Nice product,4
+266,Mind-blowing purchase,5
+267,Mind-blowing purchase,5
+268,Good choice,3
+269,Delightful,5
+270,Value-for-money,4
+271,Nice product,4
+272,Delightful,5
+273,Expected a better product,5
+274,Must buy!,4
+275,Delightful,5
+276,Super!,5
+277,Highly recommended,4
+278,Nice,4
+279,Classy product,4
+280,Nice product,4
+281,Good choice,4
+282,Classy product,5
+283,Moderate,4
+284,Super!,5
+285,Nice product,5
+286,Mind-blowing purchase,3
+287,Mind-blowing purchase,5
+288,Good choice,4
+289,Delightful,4
+290,Value-for-money,5
+291,Nice product,5
+292,Delightful,4
+293,Expected a better product,5
+294,Must buy!,5
+295,Delightful,4
+296,Super!,4
+297,Highly recommended,4
+298,Nice,4
+299,Classy product,4
+300,Nice product,5
+301,Good choice,4
+302,Classy product,5
+303,Moderate,5
+304,Super!,3
+305,Nice product,5
+306,Mind-blowing purchase,4
+307,Mind-blowing purchase,4
+308,Good choice,5
+309,Delightful,5
+310,Value-for-money,4
+311,Nice product,5
+312,Delightful,5
+313,Expected a better product,4
+314,Must buy!,4
+315,Delightful,4
+316,Super!,4
+317,Highly recommended,4
+318,Nice,5
+319,Classy product,4
+320,Nice product,5
+321,Good choice,5
+322,Classy product,3
+323,Moderate,5
+324,Super!,4
+325,Nice product,4
+326,Mind-blowing purchase,5
+327,Mind-blowing purchase,5
+328,Good choice,4
+329,Delightful,5
+330,Value-for-money,5
+331,Nice product,4
+332,Delightful,4
+333,Expected a better product,4
+334,Must buy!,4
+335,Delightful,4
+336,Super!,5
+337,Highly recommended,4
+338,Nice,5
+339,Classy product,5
+340,Nice product,3
+341,Good choice,5
+342,Classy product,4
+343,Moderate,4
+344,Super!,5
+345,Nice product,5
+346,Mind-blowing purchase,4
+347,Mind-blowing purchase,5
+348,Good choice,5
+349,Delightful,4
+350,Value-for-money,4
+351,Nice product,4
+352,Delightful,4
+353,Expected a better product,4
+354,Must buy!,5
+355,Delightful,4
+356,Super!,5
+357,Highly recommended,5
+358,Nice,3
+359,Classy product,5
+360,Nice product,4
+361,Good choice,4
+362,Classy product,5
+363,Moderate,5
+364,Super!,4
+365,Nice product,5
+366,Mind-blowing purchase,5
+367,Mind-blowing purchase,4
+368,Good choice,4
+369,Delightful,4
+370,Value-for-money,4
+371,Nice product,4
+372,Delightful,5
+373,Expected a better product,4
+374,Must buy!,5
+375,Delightful,5
+376,Super!,3
+377,Highly recommended,5
+378,Nice,4
+379,Classy product,4
+380,Nice product,5
+381,Good choice,5
+382,Classy product,4
+383,Moderate,5
+384,Super!,5
+385,Nice product,4
+386,Mind-blowing purchase,4
+387,Mind-blowing purchase,4
+388,Good choice,4
+389,Delightful,4
+390,Value-for-money,5
+391,Nice product,4
+392,Delightful,5
+393,Expected a better product,5
+394,Must buy!,3
+395,Delightful,5
+396,Super!,4
+397,Highly recommended,4
+398,Nice,5
+399,Classy product,5
+400,Nice product,4
+401,Good choice,5
+402,Classy product,5
+403,Moderate,4
+404,Super!,4
+405,Nice product,4
+406,Mind-blowing purchase,4
+407,Mind-blowing purchase,4
+408,Good choice,5
+409,Delightful,4
+410,Value-for-money,5
+411,Nice product,5
+412,Delightful,3
+413,Expected a better product,5
+414,Must buy!,4
+415,Delightful,4
+416,Super!,5
+417,Highly recommended,5
+418,Nice,4
+419,Classy product,5
+420,Nice product,5
+421,Good choice,4
+422,Classy product,4
+423,Moderate,4
+424,Super!,4
+425,Nice product,4
+426,Mind-blowing purchase,5
+427,Mind-blowing purchase,4
+428,Good choice,5
+429,Delightful,5
+430,Value-for-money,3
+431,Nice product,5
+432,Delightful,4
+433,Expected a better product,4
+434,Must buy!,5
+435,Delightful,5
+436,Super!,4
+437,Highly recommended,5
+438,Nice,5
+439,Classy product,4
+440,Nice product,4
+441,Good choice,4
+442,Classy product,4
+443,Moderate,4
+444,Super!,5
+445,Nice product,4
+446,Mind-blowing purchase,5
+447,Mind-blowing purchase,5
+448,Good choice,3
+449,Delightful,5
+450,Value-for-money,4
+451,Nice product,4
+452,Delightful,5
+453,Expected a better product,5
+454,Must buy!,4
+455,Delightful,5
+456,Super!,5
+457,Highly recommended,4
+458,Nice,4
+459,Classy product,4
+460,Nice product,4
+461,Good choice,4
+462,Classy product,5
+463,Moderate,4
+464,Super!,5
+465,Nice product,5
+466,Mind-blowing purchase,3
+467,Mind-blowing purchase,5
+468,Good choice,4
+469,Delightful,4
+470,Value-for-money,5
+471,Nice product,5
+472,Delightful,4
+473,Expected a better product,5
+474,Must buy!,5
+475,Delightful,4
+476,Super!,4
+477,Highly recommended,4
+478,Nice,4
+479,Classy product,4
+480,Nice product,5
+481,Good choice,4
+482,Classy product,5
+483,Moderate,5
+484,Super!,3
+485,Nice product,5
+486,Mind-blowing purchase,4
+487,Mind-blowing purchase,4
+488,Good choice,5
+489,Delightful,5
+490,Value-for-money,4
+491,Nice product,5
+492,Delightful,5
+493,Expected a better product,4
+494,Must buy!,4
+495,Delightful,4
+496,Super!,4
+497,Highly recommended,4
+498,Nice,5
+499,Classy product,4
+500,Nice product,5
+501,Good choice,5
+502,Classy product,3
+503,Moderate,5
+504,Super!,4
+505,Nice product,4
+506,Mind-blowing purchase,5
+507,Mind-blowing purchase,5
+508,Good choice,4
+509,Delightful,5
+510,Value-for-money,5
+511,Nice product,4
+512,Delightful,4
+513,Expected a better product,4
+514,Must buy!,4
+515,Delightful,4
+516,Super!,5
+517,Highly recommended,4
+518,Nice,5
+519,Classy product,5
+520,Nice product,3
+521,Good choice,5
+522,Classy product,4
+523,Moderate,4
+524,Super!,5
+525,Nice product,5
+526,Mind-blowing purchase,4
+527,Mind-blowing purchase,5
+528,Good choice,5
+529,Delightful,4
+530,Value-for-money,4
+531,Nice product,4
+532,Delightful,4
+533,Expected a better product,4
+534,Must buy!,5
+535,Delightful,4
+536,Super!,5
+537,Highly recommended,5
+538,Nice,3
+539,Classy product,5
+540,Nice product,4
+541,Good choice,4
+542,Classy product,5
+543,Moderate,5
+544,Super!,4
+545,Nice product,5
+546,Mind-blowing purchase,5
+547,Mind-blowing purchase,4
+548,Good choice,4
+549,Delightful,4
+550,Value-for-money,4
+551,Nice product,4
+552,Delightful,5
+553,Expected a better product,4
+554,Must buy!,5
+555,Delightful,5
+556,Super!,3
+557,Highly recommended,5
+558,Nice,4
+559,Classy product,4
+560,Nice product,5
+561,Good choice,5
+562,Classy product,4
+563,Moderate,5
+564,Super!,5
+565,Nice product,4
+566,Mind-blowing purchase,4
+567,Mind-blowing purchase,4
+568,Good choice,4
+569,Delightful,4
+570,Value-for-money,5
+571,Nice product,4
+572,Delightful,5
+573,Expected a better product,5
+574,Must buy!,3
+575,Delightful,5
+576,Super!,4
+577,Highly recommended,4
+578,Nice,5
+579,Classy product,5
+580,Nice product,4
+581,Good choice,5
+582,Classy product,5
+583,Moderate,4
+584,Super!,4
+585,Nice product,4
+586,Mind-blowing purchase,4
+587,Mind-blowing purchase,5
+588,Good choice,5
+589,Delightful,4
+590,Value-for-money,5
+591,Nice product,5
+592,Delightful,4
+593,Expected a better product,4
+594,Must buy!,4
+595,Delightful,4
+596,Super!,5
+597,Highly recommended,5
+598,Nice,4
+599,Classy product,5
+600,Nice product,5
+601,Good choice,4
+602,Classy product,4
+603,Moderate,4
+604,Super!,4
+605,Nice product,5
+606,Mind-blowing purchase,5
+607,Mind-blowing purchase,4
+608,Good choice,5
+609,Delightful,5
+610,Value-for-money,4
+611,Nice product,4
+612,Delightful,4
+613,Expected a better product,4
+614,Must buy!,5
+615,Delightful,5
+616,Super!,4
+617,Highly recommended,5
+618,Nice,5
+619,Classy product,4
+620,Nice product,4
+621,Good choice,4
+622,Classy product,4
+623,Moderate,5
+624,Super!,5
+625,Nice product,4
+626,Mind-blowing purchase,5
+627,Mind-blowing purchase,5
+628,Good choice,4
+629,Delightful,4
+630,Value-for-money,4
+631,Nice product,4
+632,Delightful,5
+633,Expected a better product,5
+634,Must buy!,4
+635,Delightful,5
+636,Super!,5
+637,Highly recommended,4
+638,Nice,4
+639,Classy product,4
+640,Nice product,4
+641,Good choice,5
+642,Classy product,5
+643,Moderate,4
+644,Super!,5
+645,Nice product,5
+646,Mind-blowing purchase,4
+647,Mind-blowing purchase,4
+648,Good choice,4
+649,Delightful,4
+650,Nice product,5
+651,Good choice,5
+652,Classy product,4
+653,Moderate,5
+654,Super!,5
+655,Nice product,4
+656,Mind-blowing purchase,4
+657,Mind-blowing purchase,4
+658,Good choice,4
+659,Delightful,5
+660,Nice product,5
+661,Good choice,4
+662,Classy product,5
+663,Moderate,5
+664,Super!,4
+665,Nice product,4
+666,Mind-blowing purchase,4
+667,Mind-blowing purchase,4
+668,Good choice,5
+669,Delightful,5
+670,Nice product,4
+671,Good choice,5
+672,Classy product,5
+673,Moderate,4
+674,Super!,4
+675,Nice product,4
+676,Mind-blowing purchase,4
+677,Mind-blowing purchase,5
+678,Good choice,5
+679,Delightful,4
+680,Nice product,5
+681,Good choice,5
+682,Classy product,4
+683,Moderate,4
+684,Super!,4
+685,Nice product,4
+686,Mind-blowing purchase,5
+687,Mind-blowing purchase,5
+688,Good choice,4
+689,Delightful,5
+690,Nice product,5
+691,Good choice,4
+692,Classy product,4
+693,Moderate,4
+694,Super!,4
+695,Nice product,5
+696,Mind-blowing purchase,5
+697,Mind-blowing purchase,4
+698,Good choice,5
+699,Delightful,5
+700,Nice product,4
+701,Good choice,4
+702,Classy product,4
+703,Moderate,4
+704,Super!,5
+705,Nice product,5
+706,Mind-blowing purchase,4
+707,Mind-blowing purchase,5
+708,Good choice,5
+709,Delightful,4
+710,Nice product,4
+711,Good choice,4
+712,Classy product,4
+713,Moderate,5
+714,Super!,5
+715,Nice product,4
+716,Mind-blowing purchase,5
+717,Mind-blowing purchase,5
+718,Good choice,4
+719,Delightful,4
+720,Nice product,4
+721,Good choice,4
+722,Classy product,5
+723,Moderate,5
+724,Super!,4
+725,Nice product,5
+726,Mind-blowing purchase,5
+727,Mind-blowing purchase,4
+728,Good choice,4
+729,Delightful,4
+730,Nice product,4
+731,Good choice,5
+732,Classy product,5
+733,Moderate,4
+734,Super!,5
+735,Nice product,5
+736,Mind-blowing purchase,4
+737,Mind-blowing purchase,4
+738,Good choice,4
+739,Delightful,4
+740,Nice product,5
+741,Good choice,5
+742,Classy product,4
+743,Moderate,5
+744,Super!,5
+745,Nice product,4
+746,Mind-blowing purchase,4
+747,Mind-blowing purchase,4
+748,Good choice,4
+749,Delightful,5
+750,Nice product,5
+751,Good choice,4
+752,Classy product,5
+753,Moderate,5
+754,Super!,4
+755,Nice product,4
+756,Mind-blowing purchase,4
+757,Mind-blowing purchase,4
+758,Good choice,5
+759,Delightful,5
+760,Nice product,4
+761,Good choice,5
+762,Classy product,5
+763,Moderate,4
+764,Super!,4
+765,Nice product,4
+766,Mind-blowing purchase,4
+767,Mind-blowing purchase,5
+768,Good choice,5
+769,Delightful,4
+770,Nice product,5
+771,Good choice,5
+772,Classy product,4
+773,Moderate,4
+774,Super!,4
+775,Nice product,4
+776,Mind-blowing purchase,5
+777,Mind-blowing purchase,5
+778,Good choice,4
+779,Delightful,5
+780,Nice product,5
+781,Good choice,4
+782,Classy product,4
+783,Moderate,4
+784,Super!,4
+785,Nice product,5
+786,Mind-blowing purchase,5
+787,Mind-blowing purchase,4
+788,Good choice,5
+789,Delightful,5
+790,Nice product,4
+791,Good choice,4
+792,Excellent,5
+793,Wonderful,4
+794,Fair,3
+795,Excellent,5
+796,Nice product,4
+797,Mind-blowing purchase,5
+798,Just wow!,5
+799,Value-for-money,4
+800,Terrific purchase,5
+801,Terrific,5
+802,Classy product,5
+803,Delightful,4
+804,Brilliant,5
+805,Simply awesome,5
+806,Awesome,5
+807,Mind-blowing purchase,5
+808,Classy product,5
+809,Highly recommended,5
+810,Just okay,3
+811,Very Good,4
+812,Excellent,5
+813,Wonderful,4
+814,Fair,3
+815,Excellent,5
+816,Nice product,4
+817,Mind-blowing purchase,5
+818,Just wow!,5
+819,Value-for-money,4
+820,Terrific purchase,5
+821,Terrific,5
+822,Classy product,5
+823,Delightful,4
+824,Brilliant,5
+825,Simply awesome,5
+826,Awesome,5
+827,Mind-blowing purchase,5
+828,Classy product,5
+829,Highly recommended,5
+830,Just okay,3
+831,Very Good,4
+832,Excellent,5
+833,Wonderful,4
+834,Fair,3
+835,Excellent,5
+836,Nice product,4
+837,Mind-blowing purchase,5
+838,Just wow!,5
+839,Value-for-money,4
+840,Terrific purchase,5
+841,Terrific,5
+842,Classy product,5
+843,Delightful,4
+844,Brilliant,5
+845,Simply awesome,5
+846,Awesome,5
+847,Mind-blowing purchase,5
+848,Classy product,5
+849,Highly recommended,5
+850,Just okay,3
+851,Very Good,4
+852,Classy product,5
+853,Delightful,4
+854,Brilliant,5
+855,Simply awesome,5
+856,Awesome,5
+857,Mind-blowing purchase,5
+858,Classy product,5
+859,Highly recommended,5
+860,Just okay,3
+861,Very Good,4
+862,Excellent,5
+863,Wonderful,4
+864,Fair,3
+865,Excellent,5
+866,Nice product,4
+867,Mind-blowing purchase,5
+868,Just wow!,5
+869,Value-for-money,4
+870,Terrific purchase,5
+871,Terrific,5
+872,Classy product,5
+873,Delightful,4
+874,Brilliant,5
+875,Simply awesome,5
+876,Awesome,5
+877,Mind-blowing purchase,5
+878,Classy product,5
+879,Highly recommended,5
+880,Just okay,3
+881,Very Good,4
+882,Excellent,5
+883,Wonderful,4
+884,Fair,3
+885,Excellent,5
+886,Nice product,4
+887,Mind-blowing purchase,5
+888,Just wow!,5
+889,Value-for-money,4
+890,Terrific purchase,5
+891,Terrific,5
+892,Must buy!,5
+893,Excellent,4
+894,Nice,5
+895,Brilliant,5
+896,Perfect product!,5
+897,Good quality product,5
+898,Fabulous!,5
+899,Mind-blowing purchase,5
+900,Brilliant,3
+901,Pretty good,4
+902,Must buy!,5
+903,Excellent,5
+904,Nice,3
+905,Brilliant,5
+906,Perfect product!,5
+907,Good quality product,4
+908,Fabulous!,5
+909,Mind-blowing purchase,5
+910,Brilliant,5
+911,Pretty good,4
+912,Classy product,5
+913,Delightful,4
+914,Brilliant,5
+915,Simply awesome,5
+916,Awesome,5
+917,Mind-blowing purchase,5
+918,Classy product,5
+919,Highly recommended,5
+920,Just okay,3
+921,Very Good,4
+922,Excellent,5
+923,Wonderful,4
+924,Fair,3
+925,Excellent,5
+926,Nice product,4
+927,Mind-blowing purchase,5
+928,Just wow!,5
+929,Value-for-money,4
+930,Terrific purchase,5
+931,Terrific,5
+932,Must buy!,5
+933,Excellent,5
+934,Nice,3
+935,Brilliant,5
+936,Perfect product!,5
+937,Good quality product,4
+938,Fabulous!,5
+939,Mind-blowing purchase,5
+940,Brilliant,5
+941,Pretty good,4
+942,Classy product,5
+943,Delightful,4
+944,Brilliant,5
+945,Simply awesome,5
+946,Awesome,5
+947,Mind-blowing purchase,5
+948,Classy product,5
+949,Highly recommended,5
+950,Just okay,3
+951,Very Good,4
+952,Excellent,5
+953,Wonderful,4
+954,Fair,3
+955,Excellent,5
+956,Nice product,4
+957,Mind-blowing purchase,5
+958,Just wow!,5
+959,Value-for-money,4
+960,Terrific purchase,5
+961,Terrific,5
+962,Classy product,5
+963,Delightful,4
+964,Brilliant,5
+965,Simply awesome,5
+966,Awesome,5
+967,Mind-blowing purchase,5
+968,Classy product,5
+969,Highly recommended,5
+970,Just okay,3
+971,Very Good,4
+972,Excellent,5
+973,Wonderful,4
+974,Fair,3
+975,Excellent,5
+976,Nice product,4
+977,Mind-blowing purchase,5
+978,Just wow!,5
+979,Value-for-money,4
+980,Terrific purchase,5
+981,Terrific,5
+982,Classy product,5
+983,Delightful,4
+984,Brilliant,5
+985,Simply awesome,5
+986,Awesome,5
+987,Mind-blowing purchase,5
+988,Classy product,5
+989,Highly recommended,5
+990,Just okay,3
+991,Very Good,4
+992,Excellent,5
+993,Wonderful,4
+994,Fair,3
+995,Excellent,5
+996,Nice product,4
+997,Mind-blowing purchase,5
+998,Just wow!,5
+999,Value-for-money,4
+1000,Terrific purchase,5
+1001,Terrific,5
+1002,Classy product,5
+1003,Delightful,4
+1004,Brilliant,5
+1005,Simply awesome,5
+1006,Awesome,5
+1007,Mind-blowing purchase,5
+1008,Classy product,5
+1009,Highly recommended,5
+1010,Just okay,3
+1011,Very Good,4
+1012,Classy product,5
+1013,Delightful,4
+1014,Brilliant,5
+1015,Simply awesome,5
+1016,Awesome,5
+1017,Mind-blowing purchase,5
+1018,Classy product,5
+1019,Highly recommended,5
+1020,Just okay,3
+1021,Very Good,4
+1022,Excellent,5
+1023,Wonderful,4
+1024,Fair,3
+1025,Excellent,5
+1026,Nice product,4
+1027,Mind-blowing purchase,5
+1028,Just wow!,5
+1029,Value-for-money,4
+1030,Terrific purchase,5
+1031,Terrific,5
+1032,Classy product,5
+1033,Delightful,4
+1034,Brilliant,5
+1035,Simply awesome,5
+1036,Awesome,5
+1037,Mind-blowing purchase,5
+1038,Classy product,5
+1039,Highly recommended,5
+1040,Just okay,3
+1041,Very Good,4
+1042,Excellent,5
+1043,Wonderful,4
+1044,Fair,3
+1045,Excellent,5
+1046,Nice product,4
+1047,Mind-blowing purchase,5
+1048,Just wow!,5
+1049,Value-for-money,4
+1050,Terrific purchase,5
+1051,Terrific,5
+1052,Classy product,5
+1053,Delightful,4
+1054,Brilliant,5
+1055,Simply awesome,5
+1056,Awesome,5
+1057,Mind-blowing purchase,5
+1058,Classy product,5
+1059,Highly recommended,5
+1060,Just okay,3
+1061,Very Good,4
+1062,Excellent,5
+1063,Wonderful,4
+1064,Fair,3
+1065,Excellent,5
+1066,Nice product,4
+1067,Mind-blowing purchase,5
+1068,Just wow!,5
+1069,Value-for-money,4
+1070,Terrific purchase,5
+1071,Terrific,5
+1072,Classy product,5
+1073,Delightful,4
+1074,Brilliant,5
+1075,Simply awesome,5
+1076,Awesome,5
+1077,Mind-blowing purchase,5
+1078,Classy product,5
+1079,Highly recommended,5
+1080,Just okay,3
+1081,Very Good,4
+1082,Excellent,5
+1083,Wonderful,4
+1084,Fair,3
+1085,Excellent,5
+1086,Nice product,4
+1087,Mind-blowing purchase,5
+1088,Just wow!,5
+1089,Value-for-money,4
+1090,Terrific purchase,5
+1091,Terrific,5
+1092,Classy product,5
+1093,Delightful,4
+1094,Brilliant,5
+1095,Simply awesome,5
+1096,Awesome,5
+1097,Mind-blowing purchase,5
+1098,Classy product,5
+1099,Highly recommended,5
+1100,Just okay,3
+1101,Very Good,4
+1102,Excellent,5
+1103,Wonderful,4
+1104,Fair,3
+1105,Excellent,5
+1106,Nice product,4
+1107,Mind-blowing purchase,5
+1108,Just wow!,5
+1109,Value-for-money,4
+1110,Terrific purchase,5
+1111,Terrific,5
+1112,Must buy!,5
+1113,Excellent,5
+1114,Nice,3
+1115,Brilliant,5
+1116,Perfect product!,5
+1117,Good quality product,4
+1118,Fabulous!,5
+1119,Mind-blowing purchase,5
+1120,Brilliant,5
+1121,Pretty good,4
+1122,Excellent,5
+1123,Wonderful,4
+1124,Fair,3
+1125,Excellent,5
+1126,Nice product,4
+1127,Mind-blowing purchase,5
+1128,Just wow!,5
+1129,Value-for-money,4
+1130,Terrific purchase,5
+1131,Terrific,5
+1132,Classy product,5
+1133,Delightful,4
+1134,Brilliant,5
+1135,Simply awesome,5
+1136,Awesome,5
+1137,Mind-blowing purchase,5
+1138,Classy product,5
+1139,Highly recommended,5
+1140,Just okay,3
+1141,Very Good,4
+1142,Excellent,5
+1143,Wonderful,4
+1144,Fair,3
+1145,Excellent,5
+1146,Nice product,4
+1147,Mind-blowing purchase,5
+1148,Just wow!,5
+1149,Value-for-money,4
+1150,Terrific purchase,5
+1151,Terrific,5
+1152,Classy product,5
+1153,Delightful,4
+1154,Brilliant,5
+1155,Simply awesome,5
+1156,Awesome,5
+1157,Mind-blowing purchase,5
+1158,Classy product,5
+1159,Highly recommended,5
+1160,Just okay,3
+1161,Very Good,4
+1162,Excellent,5
+1163,Wonderful,4
+1164,Fair,3
+1165,Excellent,5
+1166,Nice product,4
+1167,Mind-blowing purchase,5
+1168,Just wow!,5
+1169,Value-for-money,4
+1170,Terrific purchase,5
+1171,Terrific,5
+1172,Classy product,5
+1173,Delightful,4
+1174,Brilliant,5
+1175,Simply awesome,5
+1176,Awesome,5
+1177,Mind-blowing purchase,5
+1178,Classy product,5
+1179,Highly recommended,5
+1180,Just okay,3
+1181,Very Good,4
+1182,Excellent,5
+1183,Wonderful,4
+1184,Fair,3
+1185,Excellent,5
+1186,Nice product,4
+1187,Mind-blowing purchase,5
+1188,Just wow!,5
+1189,Value-for-money,4
+1190,Terrific purchase,5
+1191,Terrific,5
+1192,Super!,5
+1193,Good choice,4
+1194,Super!,5
+1195,Really Nice,4
+1196,Worth every penny,5
+1197,Best in the market!,5
+1198,Very Good,4
+1199,Best in the market!,5
+1200,Highly recommended,5
+1201,Worth the money,4
+1202,Does the job,3
+1203,Does the job,3
+1204,Worth the money,4
+1205,Must buy!,5
+1206,Brilliant,5
+1207,Bad quality,4
+1208,Nice product,5
+1209,Must buy!,5
+1210,Terrific purchase,5
+1211,Simply awesome,5
+1212,Useless product,5
+1213,Mind-blowing purchase,4
+1214,Excellent,5
+1215,Slightly disappointed,5
+1216,Expected a better product,5
+1217,Worth the money,5
+1218,Terrific,4
+1219,Super!,5
+1220,Worth every penny,5
+1221,Best in the market!,3
+1222,Value-for-money,5
+1223,Super!,4
+1224,Brilliant,5
+1225,Don't waste your money,5
+1226,Nice,5
+1227,Could be way better,5
+1228,Great product,5
+1229,Wonderful,5
+1230,Classy product,5
+1231,Super!,4
+1232,Highly recommended,5
+1233,Terrific purchase,5
+1234,Horrible,5
+1235,Just wow!,4
+1236,Fabulous!,4
+1237,Super!,5
+1238,Expected a better product,5
+1239,Nice product,5
+1240,Mind-blowing purchase,5
+1241,Must buy!,5
+1242,Just wow!,5
+1243,Really Nice,5
+1244,Pretty good,5
+1245,Useless product,5
+1246,Hated it!,4
+1247,Useless product,5
+1248,Worth every penny,5
+1249,Brilliant,4
+1250,Absolute rubbish!,5
+1251,Could be way better,4
+1252,Terrible product,3
+1253,Awesome,5
+1254,Utterly Disappointed,4
+1255,Classy product,5
+1256,Highly recommended,5
+1257,Classy product,4
+1258,Worst experience ever!,5
+1259,Highly recommended,5
+1260,Classy product,5
+1261,Perfect product!,5
+1262,Pretty good,3
+1263,Great product,5
+1264,Not good,5
+1265,Super!,4
+1266,Worth the money,5
+1267,Excellent,5
+1268,Wonderful,5
+1269,Fair,4
+1270,Excellent,5
+1271,Nice product,4
+1272,Mind-blowing purchase,5
+1273,Just wow!,4
+1274,Value-for-money,5
+1275,Terrific purchase,5
+1276,Terrific,4
+1277,Must buy!,5
+1278,Excellent,5
+1279,Nice,4
+1280,Brilliant,3
+1281,Perfect product!,3
+1282,Good quality product,4
+1283,Fabulous!,5
+1284,Mind-blowing purchase,5
+1285,Brilliant,4
+1286,Pretty good,5
+1287,Super!,5
+1288,Good choice,5
+1289,Super!,2
+1290,Really Nice,5
+1291,Worth every penny,5
+1292,Best in the market!,4
+1293,Very Good,5
+1294,Best in the market!,5
+1295,Highly recommended,5
+1296,Worth the money,5
+1297,Does the job,2
+1298,Does the job,2
+1299,Worth the money,4
+1300,Must buy!,5
+1301,Brilliant,5
+1302,Bad quality,3
+1303,Nice product,5
+1304,Must buy!,4
+1305,Terrific purchase,5
+1306,Simply awesome,5
+1307,Useless product,2
+1308,Mind-blowing purchase,5
+1309,Excellent,5
+1310,Slightly disappointed,5
+1311,Expected a better product,5
+1312,Worth the money,5
+1313,Terrific,4
+1314,Super!,5
+1315,Worth every penny,5
+1316,Best in the market!,2
+1317,Value-for-money,5
+1318,Super!,4
+1319,Brilliant,4
+1320,Don't waste your money,5
+1321,Nice,5
+1322,Could be way better,2
+1323,Great product,5
+1324,Wonderful,5
+1325,Classy product,5
+1326,Super!,5
+1327,Highly recommended,5
+1328,Terrific purchase,5
+1329,Horrible,5
+1330,Just wow!,4
+1331,Fabulous!,5
+1332,Super!,5
+1333,Expected a better product,4
+1334,Nice product,2
+1335,Mind-blowing purchase,5
+1336,Must buy!,5
+1337,Just wow!,3
+1338,Really Nice,5
+1339,Pretty good,5
+1340,Useless product,4
+1341,Hated it!,5
+1342,Useless product,5
+1343,Worth every penny,5
+1344,Brilliant,4
+1345,Absolute rubbish!,5
+1346,Could be way better,4
+1347,Terrible product,5
+1348,Awesome,4
+1349,Utterly Disappointed,5
+1350,Classy product,5
+1351,Highly recommended,4
+1352,Classy product,5
+1353,Worst experience ever!,5
+1354,Highly recommended,4
+1355,Classy product,3
+1356,Perfect product!,3
+1357,Pretty good,4
+1358,Great product,5
+1359,Not good,5
+1360,Super!,4
+1361,Worth the money,5
+1362,Must buy!,5
+1363,Excellent,5
+1364,Nice,2
+1365,Brilliant,5
+1366,Perfect product!,5
+1367,Good quality product,4
+1368,Fabulous!,5
+1369,Mind-blowing purchase,5
+1370,Brilliant,5
+1371,Pretty good,5
+1372,Super!,2
+1373,Good choice,2
+1374,Super!,4
+1375,Really Nice,5
+1376,Worth every penny,5
+1377,Best in the market!,3
+1378,Very Good,5
+1379,Best in the market!,4
+1380,Highly recommended,5
+1381,Worth the money,5
+1382,Does the job,2
+1383,Does the job,5
+1384,Worth the money,5
+1385,Must buy!,5
+1386,Brilliant,5
+1387,Bad quality,5
+1388,Nice product,4
+1389,Must buy!,5
+1390,Terrific purchase,5
+1391,Simply awesome,2
+1392,Useless product,5
+1393,Mind-blowing purchase,4
+1394,Excellent,4
+1395,Slightly disappointed,5
+1396,Expected a better product,5
+1397,Worth the money,2
+1398,Terrific,5
+1399,Super!,5
+1400,Worth every penny,5
+1401,Best in the market!,5
+1402,Value-for-money,5
+1403,Super!,5
+1404,Brilliant,5
+1405,Don't waste your money,4
+1406,Nice,5
+1407,Could be way better,5
+1408,Great product,4
+1409,Wonderful,2
+1410,Classy product,4
+1411,Super!,5
+1412,Highly recommended,5
+1413,Terrific purchase,4
+1414,Horrible,2
+1415,Just wow!,5
+1416,Fabulous!,5
+1417,Super!,4
+1418,Expected a better product,5
+1419,Nice product,5
+1420,Mind-blowing purchase,4
+1421,Must buy!,5
+1422,Just wow!,5
+1423,Really Nice,3
+1424,Pretty good,5
+1425,Useless product,5
+1426,Hated it!,2
+1427,Useless product,5
+1428,Worth every penny,5
+1429,Brilliant,5
+1430,Absolute rubbish!,5
+1431,Could be way better,4
+1432,Terrible product,5
+1433,Awesome,5
+1434,Utterly Disappointed,5
+1435,Classy product,4
+1436,Highly recommended,4
+1437,Classy product,5
+1438,Worst experience ever!,5
+1439,Highly recommended,3
+1440,Classy product,5
+1441,Perfect product!,4
+1442,Pretty good,5
+1443,Great product,5
+1444,Not good,3
+1445,Super!,4
+1446,Worth the money,5
+1447,Pretty good,5
+1448,Great product,3
+1449,Not good,5
+1450,Super!,4
+1451,Worth the money,5
+1452,Just wow!,5
+1453,Worth every penny,3
+1454,Value-for-money,3
+1455,Just wow!,4
+1456,Worth every penny,5
+1457,Value-for-money,5
+1458,Must buy!,4
+1459,Not good,4
+1460,Super!,5
+1461,Worthless,4
+1462,Nice,5
+1463,Best in the market!,3
+1464,Worth every penny,3
+1465,Terrific,4
+1466,Perfect product!,5
+1467,Brilliant,5
+1468,Mind-blowing purchase,4
+1469,Worst experience ever!,4
+1470,Very Good,5
+1471,Wonderful,4
+1472,Must buy!,5
+1473,Wonderful,3
+1474,Wonderful,5
+1475,Not recommended at all,5
+1476,Good choice,5
+1477,Awesome,4
+1478,Terrific,5
+1479,Does the job,5
+1480,Super!,4
+1481,Pretty good,5
+1482,Classy product,5
+1483,Classy product,5
+1484,Hated it!,5
+1485,Good,4
+1486,Good choice,5
+1487,Awesome,5
+1488,Terrific,4
+1489,Does the job,5
+1490,Super!,4
+1491,Pretty good,3
+1492,Classy product,5
+1493,Classy product,5
+1494,Hated it!,5
+1495,Good,5
+1496,Fair,5
+1497,Really Nice,5
+1498,Perfect product!,5
+1499,Just wow!,4
+1500,Value-for-money,5
+1501,Good quality product,5
+1502,Brilliant,5
+1503,Wonderful,5
+1504,Perfect product!,5
+1505,Decent product,4
+1506,Fair,3
+1507,Really Nice,4
+1508,Perfect product!,5
+1509,Just wow!,5
+1510,Value-for-money,4
+1511,Good quality product,4
+1512,Brilliant,5
+1513,Wonderful,4
+1514,Perfect product!,5
+1515,Decent product,3
+1516,Terrific,4
+1517,Simply awesome,5
+1518,Worst experience ever!,5
+1519,Super!,3
+1520,Very Good,5
+1521,Very poor,4
+1522,Classy product,5
+1523,Must buy!,5
+1524,Worth the money,3
+1525,Just wow!,3
+1526,Terrific,4
+1527,Simply awesome,5
+1528,Worst experience ever!,5
+1529,Super!,4
+1530,Very Good,4
+1531,Very poor,5
+1532,Classy product,4
+1533,Must buy!,5
+1534,Worth the money,3
+1535,Just wow!,4
+1536,Value-for-money,5
+1537,Decent product,5
+1538,Just wow!,3
+1539,Waste of money!,5
+1540,Simply awesome,4
+1541,Brilliant,5
+1542,Mind-blowing purchase,5
+1543,Terrific,3
+1544,Just wow!,3
+1545,Fabulous!,4
+1546,Delightful,5
+1547,Brilliant,5
+1548,Fabulous!,4
+1549,Highly recommended,4
+1550,Worth every penny,5
+1551,Great product,4
+1552,Good quality product,5
+1553,Fair,3
+1554,Really Nice,3
+1555,Perfect product!,4
+1556,Just wow!,5
+1557,Value-for-money,5
+1558,Good quality product,4
+1559,Brilliant,4
+1560,Wonderful,5
+1561,Perfect product!,4
+1562,Decent product,5
+1563,Good choice,3
+1564,Awesome,4
+1565,Terrific,5
+1566,Does the job,5
+1567,Super!,3
+1568,Pretty good,5
+1569,Classy product,4
+1570,Classy product,5
+1571,Hated it!,5
+1572,Good,3
+1573,Fair,4
+1574,Really Nice,5
+1575,Perfect product!,5
+1576,Just wow!,3
+1577,Value-for-money,5
+1578,Good quality product,4
+1579,Brilliant,5
+1580,Wonderful,5
+1581,Perfect product!,3
+1582,Decent product,3
+1583,Good choice,4
+1584,Awesome,5
+1585,Terrific,5
+1586,Does the job,4
+1587,Super!,4
+1588,Pretty good,5
+1589,Classy product,4
+1590,Classy product,5
+1591,Hated it!,3
+1592,Good,4
+1593,Fair,4
+1594,Really Nice,4
+1595,Perfect product!,5
+1596,Just wow!,4
+1597,Value-for-money,2
+1598,Good quality product,2
+1599,Brilliant,5
+1600,Wonderful,5
+1601,Perfect product!,5
+1602,Decent product,5
+1603,Fair,4
+1604,Really Nice,4
+1605,Perfect product!,5
+1606,Just wow!,5
+1607,Value-for-money,5
+1608,Good quality product,4
+1609,Brilliant,5
+1610,Wonderful,5
+1611,Perfect product!,4
+1612,Decent product,5
+1613,Good choice,5
+1614,Awesome,4
+1615,Terrific,4
+1616,Does the job,5
+1617,Super!,4
+1618,Pretty good,5
+1619,Classy product,4
+1620,Classy product,5
+1621,Hated it!,5
+1622,Good,5
+1623,Good choice,3
+1624,Awesome,5
+1625,Terrific,5
+1626,Does the job,3
+1627,Super!,5
+1628,Pretty good,3
+1629,Classy product,5
+1630,Classy product,5
+1631,Hated it!,5
+1632,Good,4
+1633,Fair,4
+1634,Really Nice,3
+1635,Perfect product!,5
+1636,Just wow!,5
+1637,Value-for-money,4
+1638,Good quality product,5
+1639,Brilliant,5
+1640,Wonderful,5
+1641,Perfect product!,5
+1642,Decent product,4
+1643,Nice product,5
+1644,Not good,5
+1645,Very Good,5
+1646,Good quality product,5
+1647,Super!,5
+1648,Good choice,5
+1649,Bad quality,5
+1650,Must buy!,4
+1651,Terrific,5
+1652,Mind-blowing purchase,5
+1653,Fabulous!,4
+1654,Worth the money,3
+1655,Value-for-money,3
+1656,Best in the market!,5
+1657,Wonderful,5
+1658,Fabulous!,2
+1659,Really Nice,5
+1660,Wonderful,5
+1661,Wonderful,5
+1662,Absolute rubbish!,4
+1663,Value-for-money,5
+1664,Worth every penny,4
+1665,Great product,3
+1666,Delightful,5
+1667,Wonderful,5
+1668,Absolute rubbish!,5
+1669,Must buy!,5
+1670,Did not meet expectations,5
+1671,Very Good,5
+1672,Awesome,5
+1673,Delightful,5
+1674,Terrible product,4
+1675,Highly recommended,5
+1676,Super!,5
+1677,Wonderful,5
+1678,Does the job,4
+1679,Wonderful,4
+1680,Wonderful,4
+1681,Does the job,5
+1682,Mind-blowing purchase,5
+1683,Nice,5
+1684,Simply awesome,5
+1685,Just wow!,2
+1686,Perfect product!,5
+1687,Worth the money,4
+1688,Very Good,5
+1689,Just okay,5
+1690,Mind-blowing purchase,5
+1691,Terrific,5
+1692,Very Good,5
+1693,Terrific,5
+1694,Excellent,4
+1695,Brilliant,5
+1696,Classy product,5
+1697,Really Nice,4
+1698,Brilliant,5
+1699,Awesome,5
+1700,Perfect product!,5
+1701,Simply awesome,5
+1702,Not recommended at all,4
+1703,Awesome,5
+1704,Awesome,5
+1705,Perfect product!,5
+1706,Delightful,4
+1707,Fabulous!,4
+1708,Highly recommended,5
+1709,Delightful,4
+1710,Fair,3
+1711,Good,5
+1712,Wonderful,5
+1713,Could be way better,4
+1714,Super!,5
+1715,Highly recommended,5
+1716,Wonderful,5
+1717,Best in the market!,4
+1718,Good choice,4
+1719,Fabulous!,4
+1720,Value-for-money,5
+1721,Decent product,5
+1722,Just wow!,5
+1723,Waste of money!,5
+1724,Simply awesome,5
+1725,Brilliant,3
+1726,Mind-blowing purchase,5
+1727,Must buy!,4
+1728,Highly recommended,5
+1729,Just wow!,5
+1730,Just wow!,4
+1731,Delightful,4
+1732,Utterly Disappointed,5
+1733,Great product,5
+1734,Best in the market!,5
+1735,Brilliant,4
+1736,Worth the money,5
+1737,Delightful,5
+1738,Value-for-money,4
+1739,Slightly disappointed,5
+1740,Super!,4
+1741,Classy product,5
+1742,Classy product,5
+1743,Terrific,4
+1744,Terrific purchase,5
+1745,Wonderful,5
+1746,Great product,5
+1747,Perfect product!,5
+1748,Perfect product!,5
+1749,Terrific,4
+1750,Simply awesome,5
+1751,Worst experience ever!,5
+1752,Super!,5
+1753,Very Good,5
+1754,Very poor,4
+1755,Classy product,5
+1756,Must buy!,5
+1757,Worth the money,5
+1758,Just wow!,4
+1759,Mind-blowing purchase,5
+1760,Must buy!,5
+1761,Classy product,5
+1762,Nice product,5
+1763,Simply awesome,5
+1764,Best in the market!,4
+1765,Worth every penny,3
+1766,Good choice,4
+1767,Value-for-money,5
+1768,Terrific purchase,5
+1769,Nice product,4
+1770,Decent product,4
+1771,Not recommended at all,5
+1772,Very poor,4
+1773,Unsatisfactory,5
+1774,Fabulous!,3
+1775,Highly recommended,4
+1776,Good choice,5
+1777,Terrific,5
+1778,Don't waste your money,3
+1779,Must buy!,5
+1780,Great product,4
+1781,Good choice,5
+1782,Very Good,5
+1783,Worth the money,3
+1784,Excellent,3
+1785,Terrific,4
+1786,Worth every penny,5
+1787,Perfect product!,5
+1788,Brilliant,4
+1789,Decent product,4
+1790,Wonderful,5
+1791,Value-for-money,4
+1792,Terrific purchase,5
+1793,Perfect product!,3
+1794,Very Good,4
+1795,Good choice,5
+1796,Worth every penny,5
+1797,Simply awesome,3
+1798,Simply awesome,5
+1799,Wonderful,4
+1800,Best in the market!,5
+1801,Terrific,5
+1802,Worth the money,3
+1803,Awesome,3
+1804,Really Nice,4
+1805,Awesome,5
+1806,Great product,5
+1807,Nice product,4
+1808,Just wow!,4
+1809,Must buy!,5
+1810,Terrific,4
+1811,Perfect product!,5
+1812,Simply awesome,3
+1813,Value-for-money,4
+1814,Wonderful,5
+1815,Highly recommended,5
+1816,Just wow!,3
+1817,Classy product,5
+1818,Nice product,4
+1819,Terrific,5
+1820,Just wow!,5
+1821,Fabulous!,3
+1822,Delightful,3
+1823,Brilliant,4
+1824,Fabulous!,5
+1825,Highly recommended,5
+1826,Worth every penny,4
+1827,Great product,4
+1828,Good quality product,5
+1829,Fair,4
+1830,Really Nice,5
+1831,Perfect product!,3
+1832,Just wow!,4
+1833,Value-for-money,5
+1834,Good quality product,5
+1835,Brilliant,3
+1836,Wonderful,5
+1837,Perfect product!,4
+1838,Decent product,5
+1839,Good choice,5
+1840,Awesome,3
+1841,Terrific,3
+1842,Does the job,4
+1843,Super!,5
+1844,Pretty good,5
+1845,Classy product,4
+1846,Classy product,4
+1847,Hated it!,5
+1848,Good,4
+1849,Fair,5
+1850,Really Nice,3
+1851,Perfect product!,4
+1852,Just wow!,5
+1853,Value-for-money,5
+1854,Good quality product,3
+1855,Brilliant,5
+1856,Wonderful,4
+1857,Perfect product!,5
+1858,Decent product,5
+1859,Good choice,3
+1860,Awesome,3
+1861,Terrific,4
+1862,Does the job,5
+1863,Super!,5
+1864,Pretty good,4
+1865,Classy product,4
+1866,Classy product,5
+1867,Hated it!,4
+1868,Good,5
+1869,Fair,3
+1870,Really Nice,4
+1871,Perfect product!,5
+1872,Just wow!,5
+1873,Value-for-money,3
+1874,Good quality product,5
+1875,Brilliant,4
+1876,Wonderful,5
+1877,Perfect product!,5
+1878,Decent product,3
+1879,Good choice,3
+1880,Awesome,4
+1881,Terrific,5
+1882,Does the job,5
+1883,Super!,4
+1884,Pretty good,4
+1885,Classy product,5
+1886,Classy product,4
+1887,Hated it!,5
+1888,Good,3
+1889,Fair,4
+1890,Really Nice,5
+1891,Perfect product!,5
+1892,Just wow!,3
+1893,Value-for-money,5
+1894,Good quality product,4
+1895,Brilliant,5
+1896,Wonderful,5
+1897,Perfect product!,3
+1898,Decent product,3
+1899,Good choice,4
+1900,Awesome,5
+1901,Terrific,5
+1902,Does the job,4
+1903,Super!,4
+1904,Pretty good,5
+1905,Classy product,4
+1906,Classy product,5
+1907,Hated it!,3
+1908,Good,4
+1909,Fair,5
+1910,Really Nice,5
+1911,Perfect product!,3
+1912,Just wow!,5
+1913,Value-for-money,4
+1914,Good quality product,5
+1915,Brilliant,5
+1916,Wonderful,3
+1917,Perfect product!,3
+1918,Decent product,4
+1919,Good choice,5
+1920,Awesome,5
+1921,Terrific,4
+1922,Does the job,4
+1923,Super!,5
+1924,Pretty good,4
+1925,Classy product,5
+1926,Classy product,3
+1927,Hated it!,4
+1928,Good,5
+1929,Fair,5
+1930,Really Nice,3
+1931,Perfect product!,5
+1932,Just wow!,4
+1933,Value-for-money,5
+1934,Good quality product,5
+1935,Brilliant,3
+1936,Wonderful,3
+1937,Perfect product!,4
+1938,Decent product,5
+1939,Good choice,5
+1940,Awesome,4
+1941,Terrific,4
+1942,Does the job,5
+1943,Super!,4
+1944,Pretty good,5
+1945,Classy product,3
+1946,Classy product,4
+1947,Hated it!,5
+1948,Good,5
+1949,Fair,3
+1950,Really Nice,5
+1951,Perfect product!,4
+1952,Just wow!,5
+1953,Value-for-money,5
+1954,Good quality product,3
+1955,Brilliant,3
+1956,Wonderful,4
+1957,Perfect product!,5
+1958,Decent product,5
+1959,Good choice,4
+1960,Awesome,4
+1961,Terrific,5
+1962,Does the job,4
+1963,Super!,5
+1964,Pretty good,3
+1965,Classy product,4
+1966,Classy product,5
+1967,Hated it!,5
+1968,Good,3
+1969,Fair,5
+1970,Really Nice,4
+1971,Perfect product!,5
+1972,Just wow!,5
+1973,Value-for-money,3
+1974,Good quality product,3
+1975,Brilliant,4
+1976,Wonderful,5
+1977,Perfect product!,5
+1978,Decent product,4
+1979,Good choice,4
+1980,Awesome,5
+1981,Terrific,4
+1982,Does the job,5
+1983,Super!,3
+1984,Pretty good,4
+1985,Classy product,5
+1986,Classy product,5
+1987,Hated it!,3
+1988,Good,5
+1989,Fair,4
+1990,Really Nice,5
+1991,Perfect product!,5
+1992,Just wow!,3
+1993,Value-for-money,5
+1994,Good quality product,4
+1995,Brilliant,5
+1996,Wonderful,4
+1997,Perfect product!,3
+1998,Decent product,4
+1999,Good choice,5
+2000,Awesome,5
+2001,Terrific,2
+2002,Does the job,5
+2003,Super!,4
+2004,Pretty good,5
+2005,Classy product,4
+2006,Classy product,3
+2007,Hated it!,4
+2008,Good,5
+2009,Fair,5
+2010,Really Nice,2
+2011,Perfect product!,5
+2012,Just wow!,4
+2013,Value-for-money,5
+2014,Good quality product,4
+2015,Brilliant,3
+2016,Wonderful,4
+2017,Perfect product!,5
+2018,Decent product,5
+2019,Good choice,2
+2020,Awesome,5
+2021,Terrific,4
+2022,Does the job,5
+2023,Super!,4
+2024,Pretty good,3
+2025,Classy product,4
+2026,Classy product,5
+2027,Hated it!,5
+2028,Good,2
+2029,Fair,5
+2030,Really Nice,4
+2031,Perfect product!,5
+2032,Just wow!,4
+2033,Value-for-money,3
+2034,Good quality product,4
+2035,Brilliant,5
+2036,Wonderful,5
+2037,Perfect product!,2
+2038,Decent product,5
+2039,Good choice,4
+2040,Awesome,5
+2041,Terrific,4
+2042,Does the job,3
+2043,Super!,4
+2044,Pretty good,5
+2045,Classy product,5
+2046,Classy product,2
+2047,Hated it!,5
+2048,Good,4
+2049,Fair,5
+2050,Really Nice,4
+2051,Perfect product!,3
+2052,Just wow!,4
+2053,Value-for-money,5
+2054,Good quality product,5
+2055,Brilliant,2
+2056,Wonderful,5
+2057,Perfect product!,4
+2058,Decent product,5
+2059,Good choice,4
+2060,Awesome,3
+2061,Terrific,4
+2062,Does the job,5
+2063,Super!,5
+2064,Pretty good,2
+2065,Classy product,5
+2066,Classy product,4
+2067,Hated it!,5
+2068,Good,4
+2069,Fabulous!,3
+2070,Expected a better product,4
+2071,Good quality product,5
+2072,Worth every penny,5
+2073,Good choice,2
+2074,Good,5
+2075,Wonderful,4
+2076,Absolute rubbish!,5
+2077,Best in the market!,4
+2078,Highly recommended,3
+2079,Fabulous!,4
+2080,Expected a better product,5
+2081,Good quality product,5
+2082,Worth every penny,2
+2083,Good choice,5
+2084,Good,4
+2085,Wonderful,5
+2086,Absolute rubbish!,4
+2087,Best in the market!,3
+2088,Highly recommended,4
+2089,Fabulous!,5
+2090,Expected a better product,5
+2091,Good quality product,2
+2092,Worth every penny,5
+2093,Good choice,4
+2094,Good,5
+2095,Wonderful,4
+2096,Absolute rubbish!,3
+2097,Best in the market!,4
+2098,Highly recommended,5
+2099,Fabulous!,5
+2100,Expected a better product,2
+2101,Good quality product,5
+2102,Worth every penny,4
+2103,Good choice,5
+2104,Good,5
+2105,Wonderful,3
+2106,Absolute rubbish!,4
+2107,Best in the market!,5
+2108,Highly recommended,5
+2109,Fabulous!,5
+2110,Expected a better product,2
+2111,Good quality product,2
+2112,Worth every penny,2
+2113,Good choice,3
+2114,Good,5
+2115,Wonderful,5
+2116,Absolute rubbish!,4
+2117,Best in the market!,4
+2118,Highly recommended,5
+2119,Fabulous!,5
+2120,Expected a better product,4
+2121,Good quality product,3
+2122,Worth every penny,4
+2123,Good choice,5
+2124,Good,5
+2125,Wonderful,5
+2126,Absolute rubbish!,5
+2127,Best in the market!,4
+2128,Highly recommended,5
+2129,Fabulous!,3
+2130,Expected a better product,5
+2131,Good quality product,4
+2132,Worth every penny,5
+2133,Good choice,5
+2134,Good,5
+2135,Wonderful,4
+2136,Absolute rubbish!,4
+2137,Best in the market!,5
+2138,Highly recommended,5
+2139,Fabulous!,4
+2140,Expected a better product,4
+2141,Good quality product,5
+2142,Worth every penny,5
+2143,Good choice,5
+2144,Good,5
+2145,Wonderful,5
+2146,Absolute rubbish!,5
+2147,Best in the market!,2
+2148,Highly recommended,5
+2149,Fabulous!,5
+2150,Expected a better product,5
+2151,Good quality product,5
+2152,Worth every penny,5
+2153,Good choice,3
+2154,Good,5
+2155,Wonderful,3
+2156,Absolute rubbish!,5
+2157,Best in the market!,5
+2158,Highly recommended,4
+2159,Fabulous!,2
+2160,Expected a better product,5
+2161,Good quality product,4
+2162,Worth every penny,5
+2163,Good choice,2
+2164,Good,3
+2165,Wonderful,5
+2166,Absolute rubbish!,4
+2167,Best in the market!,2
+2168,Highly recommended,2
+2169,Fabulous!,2
+2170,Expected a better product,5
+2171,Good quality product,5
+2172,Worth every penny,2
+2173,Good choice,2
+2174,Good,5
+2175,Wonderful,5
+2176,Absolute rubbish!,3
+2177,Best in the market!,5
+2178,Highly recommended,5
+2179,Fabulous!,5
+2180,Expected a better product,5
+2181,Good quality product,5
+2182,Worth every penny,4
+2183,Good choice,5
+2184,Good,5
+2185,Wonderful,3
+2186,Absolute rubbish!,3
+2187,Best in the market!,4
+2188,Highly recommended,2
+2189,Awesome,2
+2190,Nice product,5
+2191,Brilliant,5
+2192,Highly recommended,3
+2193,Fair,5
+2194,Good quality product,5
+2195,Fabulous!,4
+2196,Could be way better,2
+2197,Moderate,5
+2198,Terrible product,4
+2199,Terrific purchase,5
+2200,Could be way better,5
+2201,Great product,5
+2202,Did not meet expectations,4
+2203,Nice,5
+2204,Classy product,4
+2205,Unsatisfactory,2
+2206,Worth every penny,5
+2207,Value-for-money,3
+2208,Really Nice,5
+2209,Must buy!,5
+2210,Excellent,4
+2211,Terrible product,5
+2212,Delightful,4
+2213,Absolute rubbish!,3
+2214,Nice,4
+2215,Worth the money,2
+2216,Don't waste your money,3
+2217,Classy product,4
+2218,Mind-blowing purchase,5
+2219,Simply awesome,3
+2220,Absolute rubbish!,5
+2221,Just wow!,4
+2222,Delightful,5
+2223,Waste of money!,4
+2224,Useless product,5
+2225,Highly recommended,5
+2226,Fair,5
+2227,Best in the market!,4
+2228,Delightful,4
+2229,Just wow!,5
+2230,Worth every penny,5
+2231,Excellent,3
+2232,Really Nice,5
+2233,Really Nice,3
+2234,Best in the market!,5
+2235,Useless product,4
+2236,Wonderful,5
+2237,Delightful,5
+2238,Nice product,5
+2239,Wonderful,4
+2240,Could be way better,5
+2241,Brilliant,5
+2242,Mind-blowing purchase,4
+2243,Wonderful,4
+2244,Excellent,4
+2245,Worth every penny,4
+2246,Simply awesome,2
+2247,Classy product,5
+2248,Worth every penny,4
+2249,Highly recommended,5
+2250,Highly recommended,4
+2251,Good,5
+2252,Wonderful,3
+2253,Fair,4
+2254,Mind-blowing purchase,5
+2255,Excellent,4
+2256,Terrible product,4
+2257,Waste of money!,5
+2258,Good quality product,5
+2259,Not recommended at all,5
+2260,Slightly disappointed,5
+2261,Unsatisfactory,5
+2262,Waste of money!,4
+2263,Super!,5
+2264,Worthless,5
+2265,Worth the money,4
+2266,Classy product,5
+2267,Could be way better,3
+2268,Terrible product,5
+2269,Not recommended at all,5
+2270,Hated it!,4
+2271,Worthless,5
+2272,Not recommended at all,4
+2273,Good,2
+2274,Very poor,4
+2275,Don't waste your money,5
+2276,Not recommended at all,4
+2277,Terrible product,4
+2278,Waste of money!,3
+2279,Terrific,5
+2280,Could be way better,5
+2281,Did not meet expectations,5
+2282,Not good,5
+2283,Did not meet expectations,4
+2284,Wonderful,4
+2285,Expected a better product,5
+2286,Terrible product,5
+2287,Excellent,4
+2288,Could be way better,4
+2289,Moderate,5
+2290,Useless product,5
+2291,Worthless,5
+2292,Perfect product!,5
+2293,Horrible,5
+2294,Unsatisfactory,4
+2295,Horrible,4
+2296,Unsatisfactory,5
+2297,Very poor,4
+2298,Terrific purchase,5
+2299,Don't waste your money,5
+2300,Very poor,5
+2301,Fabulous!,5
+2302,Waste of money!,5
+2303,Don't waste your money,4
+2304,Don't waste your money,4
+2305,Useless product,5
+2306,Terrible product,4
+2307,Good,5
+2308,Brilliant,5
+2309,Classy product,5
+2310,Highly recommended,5
+2311,Utterly Disappointed,5
+2312,Hated it!,4
+2313,Just wow!,4
+2314,Must buy!,5
+2315,Really Nice,4
+2316,Waste of money!,5
+2317,Terrific purchase,5
+2318,Terrific purchase,5
+2319,Fair,5
+2320,Good,5
+2321,Hated it!,4
+2322,Terrible product,4
+2323,Really Nice,5
+2324,Unsatisfactory,4
+2325,Bad quality,5
+2326,Slightly disappointed,5
+2327,Did not meet expectations,5
+2328,Not recommended at all,5
+2329,Terrible product,5
+2330,Did not meet expectations,4
+2331,Very poor,4
+2332,Highly recommended,5
+2333,Don't waste your money,4
+2334,Don't waste your money,5
+2335,Waste of money!,5
+2336,Simply awesome,5
+2337,Fair,5
+2338,Simply awesome,5
+2339,Highly recommended,4
+2340,Utterly Disappointed,4
+2341,Bad quality,5
+2342,Very Good,4
+2343,Perfect product!,5
+2344,Value-for-money,5
+2345,Utterly Disappointed,5
+2346,Excellent,5
+2347,Wonderful,5
+2348,Don't waste your money,4
+2349,Mind-blowing purchase,4
+2350,Delightful,5
+2351,Did not meet expectations,4
+2352,Moderate,5
+2353,Worst experience ever!,5
+2354,Classy product,5
+2355,Absolute rubbish!,5
+2356,Really Nice,5
+2357,Absolute rubbish!,4
+2358,Useless product,4
+2359,Worth every penny,5
+2360,Nice,4
+2361,Very poor,5
+2362,Super!,5
+2363,Very poor,5
+2364,Fabulous!,5
+2365,Wonderful,5
+2366,Worst experience ever!,4
+2367,Bad quality,4
+2368,Horrible,5
+2369,Useless product,4
+2370,Excellent,5
+2371,Very Good,5
+2372,Fair,5
+2373,Good quality product,5
+2374,Fair,5
+2375,Delightful,4
+2376,Classy product,4
+2377,Good,5
+2378,Awesome,4
+2379,Pretty good,5
+2380,Brilliant,5
+2381,Very poor,5
+2382,Terrible product,5
+2383,Very poor,5
+2384,Pretty good,4
+2385,Useless product,4
+2386,Perfect product!,5
+2387,Utterly Disappointed,4
+2388,Must buy!,5
+2389,Brilliant,5
+2390,Value-for-money,5
+2391,Good quality product,5
+2392,Unsatisfactory,5
+2393,Useless product,4
+2394,Worth every penny,4
+2395,Just wow!,5
+2396,Does the job,4
+2397,Highly recommended,5
+2398,Good,5
+2399,Just wow!,5
+2400,Delightful,5
+2401,Fabulous!,5
+2402,Hated it!,4
+2403,Terrific purchase,4
+2404,Mind-blowing purchase,5
+2405,Hated it!,4
+2406,Nice product,5
+2407,Worthless,5
+2408,Could be way better,5
+2409,Wonderful,5
+2410,Highly recommended,5
+2411,Nice product,4
+2412,Value-for-money,4
+2413,Nice product,5
+2414,Delightful,4
+2415,Super!,5
+2416,Waste Product in SAMSUNG.,5
+2417,Really Nice,5
+2418,Fabulous!,5
+2419,Pretty good,5
+2420,Highly recommended,4
+2421,Absolute rubbish!,4
+2422,Just okay,5
+2423,Very Good,4
+2424,Super!,5
+2425,Very Good,5
+2426,Worth the money,5
+2427,Just wow!,5
+2428,Classy product,5
+2429,Must buy!,4
+2430,Brilliant,4
+2431,Don't waste your money,5
+2432,Unsatisfactory,4
+2433,Great product,5
+2434,Value-for-money,5
+2435,Unsatisfactory,5
+2436,Worth every penny,5
+2437,Great product,5
+2438,Very Good,4
+2439,Fabulous!,4
+2440,Good,5
+2441,Worth every penny,4
+2442,Must buy!,5
+2443,Slightly disappointed,5
+2444,Worth the money,5
+2445,Terrific purchase,5
+2446,Very Good,5
+2447,Really Nice,4
+2448,Worth every penny,4
+2449,Really Nice,5
+2450,Pretty good,4
+2451,Just okay,5
+2452,Perfect product!,5
+2453,Terrific purchase,5
+2454,Perfect product!,5
+2455,Simply awesome,5
+2456,Delightful,4
+2457,Nice product,4
+2458,Must buy!,5
+2459,Brilliant,4
+2460,Very Good,5
+2461,Good choice,5
+2462,Terrific purchase,5
+2463,Simply awesome,5
+2464,Fabulous!,5
+2465,Just wow!,4
+2466,Must buy!,4
+2467,Really Nice,5
+2468,Very Good,4
+2469,Classy product,5
+2470,Good choice,5
+2471,Terrific purchase,5
+2472,Simply awesome,5
+2473,Fabulous!,5
+2474,Just wow!,4
+2475,Must buy!,4
+2476,Really Nice,5
+2477,Very Good,4
+2478,Classy product,5
+2479,Good choice,5
+2480,Terrific purchase,5
+2481,Simply awesome,5
+2482,Fabulous!,5
+2483,Just wow!,4
+2484,Must buy!,4
+2485,Really Nice,5
+2486,Very Good,4
+2487,Classy product,5
+2488,Good choice,5
+2489,Terrific purchase,5
+2490,Simply awesome,5
+2491,Fabulous!,5
+2492,Just wow!,4
+2493,Must buy!,4
+2494,Really Nice,5
+2495,Very Good,4
+2496,Classy product,5
+2497,Good choice,5
+2498,Terrific purchase,5
+2499,Simply awesome,5
+2500,Fabulous!,5
+2501,Just wow!,4
+2502,Must buy!,4
+2503,Really Nice,5
+2504,Very Good,4
+2505,Classy product,5
+2506,Good choice,5
+2507,Terrific purchase,5
+2508,Simply awesome,5
+2509,Fabulous!,5
+2510,Just wow!,4
+2511,Must buy!,4
+2512,Really Nice,5
+2513,Very Good,4
+2514,Classy product,5
+2515,Good choice,5
+2516,Terrific purchase,5
+2517,Simply awesome,5
+2518,Fabulous!,5
+2519,Just wow!,4
+2520,Must buy!,4
+2521,Really Nice,5
+2522,Very Good,4
+2523,Classy product,5
+2524,Good choice,5
+2525,Terrific purchase,5
+2526,Simply awesome,5
+2527,Fabulous!,5
+2528,Just wow!,4
+2529,Must buy!,4
+2530,Really Nice,5
+2531,Very Good,4
+2532,Classy product,5
+2533,Good choice,5
+2534,Terrific purchase,5
+2535,Simply awesome,5
+2536,Fabulous!,5
+2537,Just wow!,4
+2538,Must buy!,4
+2539,Really Nice,5
+2540,Very Good,4
+2541,Classy product,5
+2542,Good choice,5
+2543,Terrific purchase,5
+2544,Simply awesome,5
+2545,Fabulous!,5
+2546,Just wow!,4
+2547,Must buy!,4
+2548,Really Nice,5
+2549,Very Good,4
+2550,Classy product,5
+2551,Good choice,5
+2552,Terrific purchase,5
+2553,Simply awesome,5
+2554,Fabulous!,5
+2555,Just wow!,4
+2556,Must buy!,4
+2557,Really Nice,5
+2558,Very Good,4
+2559,Classy product,5
+2560,Good choice,5
+2561,Terrific purchase,5
+2562,Simply awesome,5
+2563,Fabulous!,5
+2564,Just wow!,4
+2565,Must buy!,4
+2566,Really Nice,5
+2567,Very Good,4
+2568,Classy product,5
+2569,Good choice,5
+2570,Terrific purchase,5
+2571,Simply awesome,5
+2572,Fabulous!,5
+2573,Just wow!,4
+2574,Must buy!,4
+2575,Really Nice,5
+2576,Very Good,4
+2577,Classy product,5
+2578,Good choice,5
+2579,Terrific purchase,5
+2580,Simply awesome,5
+2581,Fabulous!,5
+2582,Just wow!,4
+2583,Must buy!,4
+2584,Really Nice,5
+2585,Very Good,4
+2586,Classy product,5
+2587,Good choice,5
+2588,Terrific purchase,5
+2589,Simply awesome,5
+2590,Fabulous!,5
+2591,Just wow!,4
+2592,Must buy!,4
+2593,Really Nice,5
+2594,Very Good,4
+2595,Classy product,5
+2596,Good choice,5
+2597,Terrific purchase,5
+2598,Simply awesome,5
+2599,Fabulous!,5
+2600,Just wow!,4
+2601,Must buy!,4
+2602,Really Nice,5
+2603,Very Good,4
+2604,Classy product,5
+2605,Good choice,5
+2606,Terrific purchase,5
+2607,Simply awesome,5
+2608,Fabulous!,5
+2609,Just wow!,4
+2610,Must buy!,4
+2611,Really Nice,5
+2612,Very Good,4
+2613,Classy product,5
+2614,Good choice,5
+2615,Terrific purchase,5
+2616,Simply awesome,5
+2617,Fabulous!,5
+2618,Just wow!,4
+2619,Must buy!,4
+2620,Really Nice,5
+2621,Very Good,4
+2622,Classy product,5
+2623,Good choice,5
+2624,Terrific purchase,5
+2625,Simply awesome,5
+2626,Fabulous!,5
+2627,Just wow!,4
+2628,Must buy!,4
+2629,Really Nice,5
+2630,Very Good,4
+2631,Classy product,5
+2632,Good choice,5
+2633,Terrific purchase,5
+2634,Simply awesome,5
+2635,Fabulous!,5
+2636,Just wow!,4
+2637,Must buy!,4
+2638,Really Nice,5
+2639,Very Good,4
+2640,Classy product,5
+2641,Good choice,5
+2642,Terrific purchase,5
+2643,Simply awesome,5
+2644,Fabulous!,5
+2645,Just wow!,4
+2646,Must buy!,4
+2647,Really Nice,5
+2648,Very Good,4
+2649,Classy product,5
+2650,Good choice,5
+2651,Terrific purchase,5
+2652,Simply awesome,5
+2653,Fabulous!,5
+2654,Just wow!,4
+2655,Must buy!,4
+2656,Really Nice,5
+2657,Very Good,4
+2658,Classy product,5
+2659,Good choice,5
+2660,Terrific purchase,5
+2661,Simply awesome,5
+2662,Fabulous!,5
+2663,Just wow!,4
+2664,Must buy!,4
+2665,Really Nice,5
+2666,Very Good,4
+2667,Classy product,5
+2668,Good choice,5
+2669,Terrific purchase,5
+2670,Simply awesome,5
+2671,Fabulous!,5
+2672,Just wow!,4
+2673,Must buy!,4
+2674,Really Nice,5
+2675,Very Good,4
+2676,Classy product,5
+2677,Good choice,5
+2678,Terrific purchase,5
+2679,Simply awesome,5
+2680,Fabulous!,5
+2681,Just wow!,4
+2682,Must buy!,4
+2683,Really Nice,5
+2684,Very Good,4
+2685,Classy product,5
+2686,Good choice,5
+2687,Terrific purchase,5
+2688,Simply awesome,5
+2689,Fabulous!,5
+2690,Just wow!,4
+2691,Must buy!,4
+2692,Really Nice,5
+2693,Very Good,4
+2694,Classy product,5
+2695,Good choice,5
+2696,Terrific purchase,5
+2697,Simply awesome,5
+2698,Fabulous!,5
+2699,Just wow!,4
+2700,Must buy!,4
+2701,Really Nice,5
+2702,Very Good,4
+2703,Classy product,5
+2704,Good choice,5
+2705,Terrific purchase,5
+2706,Simply awesome,5
+2707,Fabulous!,5
+2708,Just wow!,4
+2709,Must buy!,4
+2710,Really Nice,5
+2711,Very Good,5
+2712,Classy product,4
+2713,Good choice,5
+2714,Terrific purchase,
+2715,Simply awesome,
+2716,Fabulous!,
+2717,Just wow!,
+2718,Must buy!,
+2719,Really Nice,
+2720,Very Good,
+2721,Classy product,5
+2722,Good choice,5
+2723,Terrific purchase,5
+2724,Simply awesome,5
+2725,Fabulous!,5
+2726,Just wow!,5
+2727,Must buy!,5
+2728,Really Nice,5
+2729,Very Good,5
+2730,Classy product,5
+2731,Good choice,4
+2732,Terrific purchase,5
+2733,Simply awesome,5
+2734,Fabulous!,5
+2735,Just wow!,5
+2736,Must buy!,5
+2737,Really Nice,5
+2738,Very Good,4
+2739,Classy product,5
+2740,Good choice,5
+2741,Terrific purchase,5
+2742,Simply awesome,5
+2743,Fabulous!,4
+2744,Just wow!,5
+2745,Must buy!,5
+2746,Really Nice,5
+2747,Very Good,5
+2748,Classy product,5
+2749,Good choice,5
+2750,Terrific purchase,5
+2751,Simply awesome,5
+2752,Fabulous!,5
+2753,Just wow!,5
+2754,Must buy!,5
+2755,Really Nice,5
+2756,Very Good,5
+2757,Classy product,5
+2758,Good choice,5
+2759,Terrific purchase,4
+2760,Simply awesome,5
+2761,Fabulous!,5
+2762,Just wow!,5
+2763,Must buy!,5
+2764,Really Nice,5
+2765,Very Good,4
+2766,Classy product,2
+2767,Good choice,5
+2768,Terrific purchase,5
+2769,Simply awesome,5
+2770,Fabulous!,5
+2771,Just wow!,5
+2772,Must buy!,5
+2773,Really Nice,3
+2774,Very Good,5
+2775,Classy product,5
+2776,Good choice,4
+2777,Terrific purchase,5
+2778,Simply awesome,4
+2779,Fabulous!,5
+2780,Just wow!,2
+2781,Must buy!,5
+2782,Really Nice,5
+2783,Very Good,5
+2784,Classy product,5
+2785,Good choice,5
+2786,Terrific purchase,5
+2787,Simply awesome,5
+2788,Fabulous!,5
+2789,Just wow!,3
+2790,Must buy!,5
+2791,Really Nice,5
+2792,Very Good,5
+2793,Classy product,5
+2794,Good choice,5
+2795,Terrific purchase,5
+2796,Simply awesome,5
+2797,Fabulous!,5
+2798,Just wow!,5
+2799,Must buy!,5
+2800,Really Nice,5
+2801,Very Good,5
+2802,Classy product,5
+2803,Good choice,5
+2804,Terrific purchase,5
+2805,Simply awesome,5
+2806,Fabulous!,5
+2807,Just wow!,5
+2808,Must buy!,5
+2809,Really Nice,5
+2810,Very Good,5
+2811,Classy product,5
+2812,Good choice,5
+2813,Terrific purchase,5
+2814,Simply awesome,5
+2815,Fabulous!,5
+2816,Just wow!,5
+2817,Must buy!,4
+2818,Really Nice,5
+2819,Very Good,5
+2820,Classy product,5
+2821,Good choice,5
+2822,Terrific purchase,5
+2823,Simply awesome,5
+2824,Fabulous!,5
+2825,Just wow!,5
+2826,Must buy!,5
+2827,Really Nice,5
+2828,Very Good,5
+2829,Classy product,5
+2830,Good choice,5
+2831,Terrific purchase,5
+2832,Simply awesome,5
+2833,Fabulous!,5
+2834,Just wow!,5
+2835,Must buy!,5
+2836,Really Nice,5
+2837,Very Good,5
+2838,Classy product,5
+2839,Good choice,5
+2840,Terrific purchase,4
+2841,Simply awesome,5
+2842,Fabulous!,5
+2843,Just wow!,3
+2844,Must buy!,5
+2845,Really Nice,4
+2846,Very Good,5
+2847,Classy product,5
+2848,Good choice,5
+2849,Terrific purchase,5
+2850,Simply awesome,3
+2851,Fabulous!,5
+2852,Just wow!,5
+2853,Must buy!,5
+2854,Really Nice,5
+2855,Very Good,5
+2856,Classy product,5
+2857,Good choice,5
+2858,Terrific purchase,5
+2859,Simply awesome,5
+2860,Fabulous!,5
+2861,Just wow!,5
+2862,Must buy!,5
+2863,Really Nice,5
+2864,Very Good,5
+2865,Classy product,5
+2866,Good choice,5
+2867,Terrific purchase,5
+2868,Simply awesome,4
+2869,Fabulous!,5
+2870,Just wow!,5
+2871,Must buy!,5
+2872,Really Nice,5
+2873,Very Good,5
+2874,Classy product,5
+2875,Good choice,5
+2876,Terrific purchase,5
+2877,Simply awesome,5
+2878,Fabulous!,5
+2879,Just wow!,5
+2880,Must buy!,5
+2881,Really Nice,3
+2882,Very Good,5
+2883,Classy product,5
+2884,Simply awesome,5
+2885,Value-for-money,5
+2886,Perfect product!,5
+2887,,5
+2888,,5
+2889,,5
+2890,,5
+2891,,5
+2892,,4
+2893,,5
+2894,Worth every penny,5
+2895,genuine Product.,5
+2896,Super!,5
+2897,Worth every penny,5
+2898,Terrific,5
+2899,Great product,5
+2900,Terrific,5
+2901,Terrific,5
+2902,Terrific purchase,3
+2903,Best in the market!,5
+2904,Very Good,5
+2905,Mind-blowing purchase,5
+2906,Highly recommended,5
+2907,Best in the market!,4
+2908,Brilliant,4
+2909,Classy product,5
+2910,Terrific purchase,5
+2911,Good choice,5
+2912,Worth every penny,5
+2913,Awesome,5
+2914,Excellent,5
+2915,Perfect product!,5
+2916,Wonderful,4
+2917,Best in the market!,5
+2918,Simply awesome,5
+2919,Classy product,5
+2920,Super!,5
+2921,Worth every penny,5
+2922,Highly recommended,5
+2923,Awesome,5
+2924,Terrific purchase,5
+2925,Best in the market!,5
+2926,Must buy!,3
+2927,Excellent,5
+2928,Excellent,4
+2929,Mind-blowing purchase,5
+2930,Excellent,5
+2931,Terrible product,5
+2932,Wonderful,5
+2933,Useless product,3
+2934,Delightful,4
+2935,Wonderful,5
+2936,Brilliant,5
+2937,Terrific,4
+2938,Highly recommended,5
+2939,Fabulous!,5
+2940,Value-for-money,5
+2941,Bad quality,5
+2942,Waste of money!,5
+2943,Simply awesome,5
+2944,Classy product,5
+2945,Wonderful,5
+2946,Best in the market!,5
+2947,Excellent,5
+2948,Worth every penny,5
+2949,Decent product,5
+2950,Fabulous!,4
+2951,Awesome,5
+2952,Pretty good,5
+2953,Terrific,5
+2954,Pretty good,5
+2955,Not good,5
+2956,Terrific purchase,5
+2957,Brilliant,5
+2958,Terrible product,5
+2959,Excellent,5
+2960,Brilliant,5
+2961,Worth every penny,5
+2962,Perfect product!,5
+2963,Terrific,5
+2964,Highly recommended,5
+2965,Perfect product!,5
+2966,Does the job,5
+2967,Classy product,5
+2968,Perfect product!,5
+2969,Brilliant,5
+2970,Worth every penny,5
+2971,Great product,5
+2972,Excellent,4
+2973,Mind-blowing purchase,5
+2974,Very poor,5
+2975,Wonderful,5
+2976,Simply awesome,5
+2977,Mind-blowing purchase,5
+2978,Terrible product,5
+2979,Awesome,5
+2980,Must buy!,4
+2981,Terrific purchase,5
+2982,Worth every penny,5
+2983,Super!,5
+2984,Best in the market!,5
+2985,Perfect product!,3
+2986,Perfect product!,4
+2987,Fabulous!,5
+2988,Awesome,5
+2989,Excellent,5
+2990,Brilliant,5
+2991,Must buy!,5
+2992,Mind-blowing purchase,5
+2993,Highly recommended,5
+2994,Fabulous!,5
+2995,Super!,4
+2996,Good choice,5
+2997,Super!,5
+2998,Classy product,3
+2999,Classy product,4
+3000,Wonderful,4
+3001,Worth every penny,5
+3002,Perfect product!,5
+3003,Great product,4
+3004,Worth every penny,5
+3005,Worth every penny,3
+3006,Best in the market!,5
+3007,Wonderful,5
+3008,Mind-blowing purchase,4
+3009,Mind-blowing purchase,3
+3010,Mind-blowing purchase,5
+3011,Perfect product!,5
+3012,Great product,5
+3013,Excellent,5
+3014,Highly recommended,4
+3015,Great product,5
+3016,Classy product,5
+3017,Great product,4
+3018,Classy product,5
+3019,Really Nice,5
+3020,Super!,5
+3021,Highly recommended,5
+3022,Decent product,5
+3023,Great product,5
+3024,Good choice,5
+3025,Absolute rubbish!,5
+3026,Mind-blowing purchase,5
+3027,Highly recommended,5
+3028,Must buy!,5
+3029,Terrific purchase,5
+3030,Nice,4
+3031,Fabulous!,3
+3032,Brilliant,2
+3033,Brilliant,5
+3034,Simply awesome,4
+3035,Terrific,5
+3036,Best in the market!,5
+3037,Utterly Disappointed,4
+3038,Terrific purchase,4
+3039,Must buy!,5
+3040,Fabulous!,3
+3041,Just wow!,5
+3042,Must buy!,5
+3043,Awesome,4
+3044,Mind-blowing purchase,4
+3045,Worth every penny,4
+3046,Best in the market!,5
+3047,Terrific,5
+3048,Worth every penny,5
+3049,Really Nice,5
+3050,Worth every penny,5
+3051,Must buy!,4
+3052,Highly recommended,5
+3053,Utterly Disappointed,5
+3054,Best in the market!,5
+3055,Just wow!,5
+3056,Classy product,5
+3057,Worth every penny,5
+3058,Simply awesome,5
+3059,Just wow!,4
+3060,Excellent,5
+3061,Wonderful,4
+3062,Perfect product!,5
+3063,Nice,5
+3064,Wonderful,5
+3065,Best in the market!,4
+3066,Best in the market!,5
+3067,Perfect product!,5
+3068,Terrific purchase,5
+3069,Awesome,5
+3070,Excellent,5
+3071,Highly recommended,5
+3072,Worth every penny,4
+3073,Just wow!,5
+3074,Good quality product,5
+3075,Worth every penny,4
+3076,Classy product,5
+3077,Just wow!,5
+3078,Super!,5
+3079,Must buy!,4
+3080,Worthless,5
+3081,Worth every penny,2
+3082,Awesome,5
+3083,Great product,5
+3084,Fabulous!,5
+3085,Does the job,5
+3086,Mind-blowing purchase,5
+3087,Great product,5
+3088,Highly recommended,5
+3089,Fabulous!,5
+3090,Worth the money,4
+3091,Worth the money,5
+3092,Highly recommended,5
+3093,Simply awesome,5
+3094,Brilliant,5
+3095,Fabulous!,5
+3096,Highly recommended,5
+3097,Not recommended at all,5
+3098,Mind-blowing purchase,5
+3099,Very poor,5
+3100,Terrific,4
+3101,Very Good,5
+3102,Super!,4
+3103,Super!,5
+3104,Worth every penny,5
+3105,Wonderful,4
+3106,Classy product,4
+3107,Wonderful,5
+3108,Just wow!,5
+3109,Highly recommended,5
+3110,Simply awesome,5
+3111,Does the job,5
+3112,Brilliant,5
+3113,Nice product,5
+3114,Mind-blowing purchase,5
+3115,Best in the market!,4
+3116,Simply awesome,5
+3117,Awesome,4
+3118,Does the job,4
+3119,Worth the money,5
+3120,Terrific purchase,5
+3121,Super!,5
+3122,Nice product,5
+3123,Awesome,5
+3124,Terrific purchase,5
+3125,Excellent,5
+3126,Simply awesome,4
+3127,Terrific,5
+3128,Super!,5
+3129,Excellent,4
+3130,Must buy!,5
+3131,Mind-blowing purchase,4
+3132,Wonderful,4
+3133,Best in the market!,5
+3134,Highly recommended,5
+3135,Good choice,5
+3136,Terrific purchase,5
+3137,Fabulous!,4
+3138,Brilliant,5
+3139,Awesome,5
+3140,Terrific,5
+3141,Simply awesome,5
+3142,Terrific,5
+3143,Great product,5
+3144,Perfect product!,5
+3145,Wonderful,5
+3146,Perfect product!,5
+3147,Great product,4
+3148,Perfect product!,5
+3149,Must buy!,5
+3150,Highly recommended,5
+3151,Terrific,5
+3152,Super!,5
+3153,Must buy!,5
+3154,Perfect product!,5
+3155,Must buy!,5
+3156,Super!,5
+3157,Good quality product,5
+3158,Mind-blowing purchase,3
+3159,Brilliant,5
+3160,Worth every penny,5
+3161,Awesome,5
+3162,Highly recommended,5
+3163,Very poor,5
+3164,Terrific purchase,5
+3165,Excellent,5
+3166,Pretty good,5
+3167,Terrific,5
+3168,Perfect product!,5
+3169,Awesome,5
+3170,Perfect product!,5
+3171,Does the job,5
+3172,Good quality product,5
+3173,Best in the market!,5
+3174,Terrific,5
+3175,Perfect product!,5
+3176,Awesome,5
+3177,Best in the market!,5
+3178,Excellent,5
+3179,Terrific,5
+3180,Terrific purchase,5
+3181,Best in the market!,5
+3182,Great product,5
+3183,Great product,5
+3184,Good,5
+3185,Delightful,5
+3186,Good choice,5
+3187,Wonderful,5
+3188,Excellent,5
+3189,Worth the money,4
+3190,Brilliant,5
+3191,Good,4
+3192,Super!,5
+3193,Awesome,5
+3194,Worth the money,5
+3195,Nice,5
+3196,Simply awesome,5
+3197,Must buy!,5
+3198,Excellent,5
+3199,Mind-blowing purchase,5
+3200,Wonderful,5
+3201,Simply awesome,5
+3202,Terrific,5
+3203,Worth the money,4
+3204,Mind-blowing purchase,4
+3205,Wonderful,5
+3206,Perfect product!,5
+3207,Great product,5
+3208,Worth every penny,5
+3209,Wonderful,5
+3210,Awesome,5
+3211,Great product,5
+3212,Must buy!,5
+3213,Excellent,5
+3214,Mind-blowing purchase,5
+3215,Worthless,5
+3216,Brilliant,5
+3217,Slightly disappointed,5
+3218,Pretty good,5
+3219,Good,5
+3220,Brilliant,5
+3221,Really Nice,5
+3222,Fabulous!,5
+3223,Highly recommended,5
+3224,Hated it!,5
+3225,Wonderful,5
+3226,Pretty good,5
+3227,Must buy!,5
+3228,Just okay,5
+3229,Highly recommended,5
+3230,Brilliant,5
+3231,Wonderful,5
+3232,Good choice,5
+3233,Pretty good,5
+3234,Terrific purchase,5
+3235,Worth every penny,5
+3236,Super!,5
+3237,Wonderful,5
+3238,Classy product,5
+3239,Don't waste your money,5
+3240,Pretty good,5
+3241,Mind-blowing purchase,5
+3242,Fabulous!,5
+3243,Highly recommended,5
+3244,Best in the market!,5
+3245,Terrific purchase,5
+3246,Simply awesome,5
+3247,Worth every penny,5
+3248,Pretty good,5
+3249,Brilliant,5
+3250,Wonderful,5
+3251,Mind-blowing purchase,5
+3252,Fabulous!,5
+3253,Classy product,5
+3254,Worth the money,5
+3255,Super!,5
+3256,Wonderful,5
+3257,Simply awesome,5
+3258,Terrific,5
+3259,Awesome,5
+3260,Perfect product!,5
+3261,Delightful,5
+3262,Fabulous!,5
+3263,Excellent,5
+3264,Pretty good,5
+3265,Expected a better product,5
+3266,Just wow!,5
+3267,Mind-blowing purchase,5
+3268,Highly recommended,5
+3269,Delightful,5
+3270,Excellent,5
+3271,Worst experience ever!,5
+3272,Terrific,5
+3273,Super!,5
+3274,Just wow!,5
+3275,Fabulous!,5
+3276,Worst experience ever!,5
+3277,Awesome,5
+3278,Highly recommended,5
+3279,Excellent,5
+3280,Just wow!,5
+3281,Really Nice,5
+3282,Terrific purchase,5
+3283,Excellent,5
+3284,Highly recommended,5
+3285,Simply awesome,5
+3286,Best in the market!,5
+3287,Terrific,5
+3288,Simply awesome,5
+3289,Awesome,5
+3290,Classy product,5
+3291,Nice product,5
+3292,Super!,5
+3293,Really Nice,5
+3294,Super!,5
+3295,Best in the market!,5
+3296,Value-for-money,5
+3297,Nice product,5
+3298,Mind-blowing purchase,5
+3299,Awesome,5
+3300,Awesome,5
+3301,Terrific purchase,5
+3302,Great product,5
+3303,Fabulous!,4
+3304,Wonderful,5
+3305,Perfect product!,5
+3306,Absolute rubbish!,5
+3307,Pretty good,5
+3308,Great product,5
+3309,Wonderful,5
+3310,Nice product,4
+3311,Excellent,5
+3312,Awesome,5
+3313,Best in the market!,5
+3314,Best in the market!,5
+3315,Brilliant,4
+3316,excellent,5
+3317,Classy product,5
+3318,Really Nice,5
+3319,Classy product,5
+3320,Most Price worthy Iphone,5
+3321,Wonderful,5
+3322,Best in the market!,5
+3323,Pretty good,5
+3324,Nice product,5
+3325,Classy product,5
+3326,Simply awesome,5
+3327,Mind-blowing purchase,5
+3328,Brilliant,5
+3329,Good choice,5
+3330,Must buy!,5
+3331,Wonderful,4
+3332,Must buy!,5
+3333,Excellent,5
+3334,Excellent,5
+3335,Excellent,5
+3336,Super!,5
+3337,Worth every penny,4
+3338,Terrific purchase,2
+3339,Good quality product,5
+3340,Terrific,5
+3341,Best in the market!,5
+3342,Perfect product!,5
+3343,Absolute rubbish!,5
+3344,Awesome,5
+3345,Just wow!,3
+3346,Super!,5
+3347,Mind-blowing purchase,5
+3348,Perfect product!,4
+3349,Classy product,5
+3350,Awesome,4
+3351,Does the job,5
+3352,Super!,2
+3353,Highly recommended,5
+3354,Brilliant,5
+3355,Must buy!,5
+3356,Best in the market!,5
+3357,Brilliant,5
+3358,Worth every penny,5
+3359,Worth every penny,5
+3360,Worth every penny,5
+3361,Awesome,3
+3362,Excellent,5
+3363,Mind-blowing purchase,5
+3364,Excellent,5
+3365,Brilliant,5
+3366,Terrific,5
+3367,Fabulous!,5
+3368,Worthless,5
+3369,Fabulous!,5
+3370,Wonderful,5
+3371,Must buy!,5
+3372,Great product,5
+3373,Just wow!,5
+3374,Wonderful,5
+3375,Wonderful,5
+3376,Simply awesome,5
+3377,Best in the market!,5
+3378,Great product,5
+3379,Terrific purchase,5
+3380,Terrific purchase,5
+3381,Mind-blowing purchase,5
+3382,Mind-blowing purchase,5
+3383,Very Good,5
+3384,Simply awesome,5
+3385,Good quality product,5
+3386,Very poor,5
+3387,Perfect product!,5
+3388,Fabulous!,5
+3389,Classy product,4
+3390,Awesome,5
+3391,Perfect product!,5
+3392,Fabulous!,5
+3393,Simply awesome,5
+3394,Wonderful,5
+3395,Terrific purchase,5
+3396,Mind-blowing purchase,5
+3397,Excellent,5
+3398,Good choice,5
+3399,Nice product,5
+3400,Brilliant,5
+3401,Perfect product!,5
+3402,Just wow!,5
+3403,Super!,5
+3404,Must buy!,5
+3405,Classy product,5
+3406,Great product,5
+3407,Classy product,5
+3408,Perfect product!,5
+3409,Highly recommended,5
+3410,Terrific,5
+3411,Simply awesome,5
+3412,Worth every penny,4
+3413,Wonderful,5
+3414,Classy product,5
+3415,Worth every penny,3
+3416,Must buy!,5
+3417,Excellent,4
+3418,Perfect product!,5
+3419,Highly recommended,5
+3420,Terrific,5
+3421,Simply awesome,5
+3422,Worth every penny,3
+3423,Wonderful,5
+3424,Classy product,5
+3425,Worth every penny,5
+3426,Must buy!,5
+3427,Excellent,5
+3428,Perfect product!,5
+3429,Highly recommended,5
+3430,Terrific,5
+3431,Simply awesome,5
+3432,Worth every penny,5
+3433,Wonderful,5
+3434,Classy product,5
+3435,Worth every penny,5
+3436,Must buy!,5
+3437,Excellent,5
+3438,Perfect product!,5
+3439,Highly recommended,5
+3440,Terrific,4
+3441,Simply awesome,5
+3442,Worth every penny,5
+3443,Wonderful,5
+3444,Classy product,5
+3445,Worth every penny,5
+3446,Must buy!,5
+3447,Excellent,5
+3448,Perfect product!,5
+3449,Highly recommended,5
+3450,Terrific,5
+3451,Simply awesome,5
+3452,Worth every penny,5
+3453,Wonderful,3
+3454,Classy product,5
+3455,Worth every penny,5
+3456,Must buy!,5
+3457,Excellent,5
+3458,Perfect product!,5
+3459,Highly recommended,5
+3460,Terrific,5
+3461,Simply awesome,5
+3462,Worth every penny,5
+3463,Wonderful,5
+3464,Classy product,4
+3465,Worth every penny,5
+3466,Must buy!,5
+3467,Excellent,5
+3468,Perfect product!,5
+3469,Highly recommended,5
+3470,Terrific,5
+3471,Simply awesome,5
+3472,Worth every penny,5
+3473,Wonderful,5
+3474,Classy product,3
+3475,Worth every penny,5
+3476,Must buy!,5
+3477,Excellent,5
+3478,Perfect product!,5
+3479,Highly recommended,4
+3480,Terrific,4
+3481,Simply awesome,5
+3482,Worth every penny,5
+3483,Wonderful,5
+3484,Classy product,5
+3485,Worth every penny,5
+3486,Must buy!,5
+3487,Excellent,5
+3488,Worth every penny,4
+3489,genuine Product.,5
+3490,Super!,5
+3491,Worth every penny,5
+3492,Terrific,5
+3493,Great product,5
+3494,Terrific,5
+3495,Terrific,5
+3496,Terrific purchase,5
+3497,Best in the market!,5
+3498,Very Good,3
+3499,Mind-blowing purchase,5
+3500,Highly recommended,4
+3501,Best in the market!,5
+3502,Brilliant,5
+3503,Classy product,5
+3504,Terrific purchase,5
+3505,Good choice,3
+3506,Worth every penny,4
+3507,Awesome,5
+3508,Excellent,5
+3509,Perfect product!,4
+3510,Wonderful,5
+3511,Best in the market!,5
+3512,Simply awesome,5
+3513,Classy product,5
+3514,Super!,5
+3515,Worth every penny,5
+3516,Highly recommended,5
+3517,Awesome,5
+3518,Terrific purchase,5
+3519,Best in the market!,5
+3520,Must buy!,5
+3521,Excellent,5
+3522,Excellent,4
+3523,Mind-blowing purchase,5
+3524,Excellent,5
+3525,Terrible product,5
+3526,Wonderful,5
+3527,Useless product,5
+3528,Delightful,5
+3529,Wonderful,5
+3530,Brilliant,5
+3531,Terrific,5
+3532,Highly recommended,5
+3533,Fabulous!,5
+3534,Value-for-money,5
+3535,Bad quality,5
+3536,Waste of money!,5
+3537,Simply awesome,5
+3538,Classy product,5
+3539,Wonderful,5
+3540,Best in the market!,5
+3541,Excellent,5
+3542,Worth every penny,5
+3543,Decent product,5
+3544,Fabulous!,4
+3545,Awesome,5
+3546,Pretty good,5
+3547,Terrific,5
+3548,Pretty good,5
+3549,Not good,5
+3550,Terrific purchase,5
+3551,Brilliant,5
+3552,Terrible product,4
+3553,Excellent,5
+3554,Brilliant,5
+3555,Worth every penny,5
+3556,Perfect product!,5
+3557,Terrific,3
+3558,Highly recommended,4
+3559,Perfect product!,5
+3560,Does the job,5
+3561,Classy product,5
+3562,Perfect product!,5
+3563,Brilliant,5
+3564,Worth every penny,5
+3565,Great product,5
+3566,Excellent,5
+3567,Mind-blowing purchase,4
+3568,Very poor,5
+3569,Wonderful,5
+3570,Simply awesome,3
+3571,Mind-blowing purchase,4
+3572,Terrible product,4
+3573,Awesome,5
+3574,Must buy!,5
+3575,Terrific purchase,4
+3576,Worth every penny,5
+3577,Super!,3
+3578,Best in the market!,5
+3579,Perfect product!,5
+3580,Perfect product!,4
+3581,Fabulous!,3
+3582,Awesome,5
+3583,Excellent,5
+3584,Brilliant,5
+3585,Must buy!,5
+3586,Mind-blowing purchase,4
+3587,Highly recommended,5
+3588,Fabulous!,5
+3589,Super!,4
+3590,Good choice,5
+3591,Super!,5
+3592,Classy product,5
+3593,Classy product,5
+3594,Wonderful,5
+3595,Worth every penny,5
+3596,Perfect product!,5
+3597,Great product,5
+3598,Worth every penny,5
+3599,Worth every penny,5
+3600,Best in the market!,5
+3601,Wonderful,5
+3602,Mind-blowing purchase,4
+3603,Mind-blowing purchase,3
+3604,Mind-blowing purchase,2
+3605,Perfect product!,5
+3606,Great product,4
+3607,Excellent,5
+3608,Highly recommended,5
+3609,Great product,4
+3610,Classy product,4
+3611,Great product,5
+3612,Classy product,3
+3613,Really Nice,5
+3614,Super!,5
+3615,Highly recommended,4
+3616,Decent product,4
+3617,Great product,4
+3618,Good choice,5
+3619,Absolute rubbish!,5
+3620,Mind-blowing purchase,5
+3621,Highly recommended,5
+3622,Must buy!,5
+3623,Terrific purchase,4
+3624,Nice,5
+3625,Fabulous!,5
+3626,Brilliant,5
+3627,Brilliant,5
+3628,Simply awesome,5
+3629,Terrific,5
+3630,Best in the market!,5
+3631,Utterly Disappointed,4
+3632,Terrific purchase,5
+3633,Must buy!,4
+3634,Fabulous!,5
+3635,Just wow!,5
+3636,Must buy!,5
+3637,Awesome,4
+3638,Mind-blowing purchase,5
+3639,Worth every penny,5
+3640,Best in the market!,5
+3641,Terrific,5
+3642,Worth every penny,5
+3643,Really Nice,5
+3644,Worth every penny,4
+3645,Must buy!,5
+3646,Highly recommended,5
+3647,Utterly Disappointed,4
+3648,Best in the market!,5
+3649,Just wow!,5
+3650,Classy product,5
+3651,Worth every penny,4
+3652,Simply awesome,5
+3653,Just wow!,2
+3654,Excellent,5
+3655,Wonderful,5
+3656,Perfect product!,5
+3657,Nice,5
+3658,Wonderful,5
+3659,Best in the market!,5
+3660,Best in the market!,5
+3661,Perfect product!,5
+3662,Terrific purchase,4
+3663,Awesome,5
+3664,Excellent,5
+3665,Highly recommended,5
+3666,Worth every penny,5
+3667,Just wow!,5
+3668,Good quality product,5
+3669,Worth every penny,5
+3670,Classy product,5
+3671,Just wow!,5
+3672,Super!,4
+3673,Must buy!,5
+3674,Worthless,4
+3675,Worth every penny,5
+3676,Awesome,5
+3677,Great product,4
+3678,Fabulous!,4
+3679,Does the job,5
+3680,Mind-blowing purchase,5
+3681,Great product,5
+3682,Highly recommended,5
+3683,Fabulous!,5
+3684,Worth the money,5
+3685,Worth the money,5
+3686,Highly recommended,5
+3687,Simply awesome,4
+3688,Brilliant,5
+3689,Fabulous!,4
+3690,Highly recommended,4
+3691,Not recommended at all,5
+3692,Mind-blowing purchase,5
+3693,Very poor,5
+3694,Terrific,5
+3695,Very Good,5
+3696,Super!,5
+3697,Super!,5
+3698,Worth every penny,4
+3699,Wonderful,5
+3700,Classy product,5
+3701,Wonderful,4
+3702,Just wow!,5
+3703,Highly recommended,4
+3704,Simply awesome,4
+3705,Does the job,5
+3706,Brilliant,5
+3707,Nice product,5
+3708,Mind-blowing purchase,5
+3709,Best in the market!,4
+3710,Simply awesome,5
+3711,Awesome,5
+3712,Does the job,5
+3713,Worth the money,5
+3714,Terrific purchase,5
+3715,Super!,5
+3716,Nice product,5
+3717,Awesome,5
+3718,Terrific purchase,5
+3719,Excellent,4
+3720,Simply awesome,5
+3721,Terrific,5
+3722,Super!,5
+3723,Excellent,5
+3724,Must buy!,5
+3725,Mind-blowing purchase,5
+3726,Wonderful,5
+3727,Best in the market!,5
+3728,Highly recommended,5
+3729,Good choice,5
+3730,Terrific purchase,3
+3731,Fabulous!,5
+3732,Brilliant,5
+3733,Awesome,5
+3734,Terrific,5
+3735,Simply awesome,5
+3736,Terrific,5
+3737,Great product,5
+3738,Perfect product!,5
+3739,Wonderful,5
+3740,Perfect product!,5
+3741,Great product,5
+3742,Perfect product!,5
+3743,Must buy!,5
+3744,Highly recommended,5
+3745,Terrific,5
+3746,Super!,5
+3747,Must buy!,5
+3748,Perfect product!,5
+3749,Must buy!,5
+3750,Super!,5
+3751,Good quality product,5
+3752,Mind-blowing purchase,5
+3753,Brilliant,5
+3754,Worth every penny,5
+3755,Awesome,5
+3756,Highly recommended,5
+3757,Very poor,5
+3758,Terrific purchase,5
+3759,Excellent,5
+3760,Pretty good,5
+3761,Terrific,4
+3762,Perfect product!,5
+3763,Awesome,4
+3764,Perfect product!,5
+3765,Does the job,5
+3766,Good quality product,5
+3767,Best in the market!,5
+3768,Terrific,5
+3769,Perfect product!,5
+3770,Awesome,5
+3771,Best in the market!,5
+3772,Excellent,5
+3773,Terrific,5
+3774,Terrific purchase,5
+3775,Best in the market!,4
+3776,Great product,4
+3777,Great product,5
+3778,Good,5
+3779,Delightful,5
+3780,Good choice,5
+3781,Wonderful,5
+3782,Excellent,5
+3783,Worth the money,5
+3784,Brilliant,5
+3785,Good,5
+3786,Super!,5
+3787,Awesome,5
+3788,Worth the money,5
+3789,Nice,5
+3790,Simply awesome,5
+3791,Must buy!,5
+3792,Excellent,5
+3793,Mind-blowing purchase,5
+3794,Wonderful,5
+3795,Simply awesome,5
+3796,Terrific,4
+3797,Worth the money,5
+3798,Mind-blowing purchase,4
+3799,Wonderful,5
+3800,Perfect product!,5
+3801,Great product,5
+3802,Worth every penny,5
+3803,Wonderful,5
+3804,Awesome,4
+3805,Great product,5
+3806,Must buy!,4
+3807,Excellent,5
+3808,Mind-blowing purchase,5
+3809,Worthless,5
+3810,Brilliant,5
+3811,Slightly disappointed,5
+3812,Pretty good,5
+3813,Good,5
+3814,Brilliant,5
+3815,Really Nice,5
+3816,Fabulous!,4
+3817,Highly recommended,5
+3818,Hated it!,4
+3819,Wonderful,5
+3820,Pretty good,5
+3821,Must buy!,5
+3822,Just okay,5
+3823,Highly recommended,5
+3824,Brilliant,4
+3825,Wonderful,5
+3826,Good choice,4
+3827,Pretty good,5
+3828,Terrific purchase,5
+3829,Worth every penny,5
+3830,Super!,5
+3831,Wonderful,5
+3832,Classy product,5
+3833,Don't waste your money,5
+3834,Pretty good,5
+3835,Mind-blowing purchase,5
+3836,Fabulous!,4
+3837,Highly recommended,5
+3838,Best in the market!,5
+3839,Terrific purchase,5
+3840,Simply awesome,5
+3841,Worth every penny,5
+3842,Pretty good,5
+3843,Brilliant,5
+3844,Wonderful,5
+3845,Mind-blowing purchase,5
+3846,Fabulous!,4
+3847,Classy product,5
+3848,Worth the money,5
+3849,Super!,5
+3850,Wonderful,5
+3851,Simply awesome,5
+3852,Terrific,5
+3853,Awesome,5
+3854,Perfect product!,5
+3855,Delightful,5
+3856,Fabulous!,4
+3857,Excellent,5
+3858,Pretty good,5
+3859,Expected a better product,5
+3860,Just wow!,5
+3861,Mind-blowing purchase,5
+3862,Highly recommended,5
+3863,Delightful,5
+3864,Excellent,5
+3865,Worst experience ever!,5
+3866,Terrific,4
+3867,Super!,5
+3868,Just wow!,5
+3869,Fabulous!,5
+3870,Worst experience ever!,5
+3871,Awesome,5
+3872,Highly recommended,5
+3873,Excellent,5
+3874,Just wow!,5
+3875,Really Nice,5
+3876,Terrific purchase,4
+3877,Excellent,5
+3878,Highly recommended,5
+3879,Simply awesome,5
+3880,Best in the market!,5
+3881,Terrific,5
+3882,Simply awesome,5
+3883,Awesome,5
+3884,Classy product,5
+3885,Nice product,5
+3886,Super!,5
+3887,Really Nice,5
+3888,Super!,5
+3889,Best in the market!,5
+3890,Value-for-money,5
+3891,Nice product,5
+3892,Mind-blowing purchase,5
+3893,Awesome,5
+3894,Awesome,5
+3895,Terrific purchase,4
+3896,Great product,5
+3897,Fabulous!,5
+3898,Wonderful,5
+3899,Perfect product!,5
+3900,Absolute rubbish!,5
+3901,Pretty good,5
+3902,Great product,4
+3903,Wonderful,5
+3904,Nice product,5
+3905,Excellent,5
+3906,Awesome,5
+3907,Best in the market!,4
+3908,Best in the market!,5
+3909,Brilliant,5
+3910,excellent,5
+3911,Classy product,5
+3912,Really Nice,5
+3913,Classy product,5
+3914,Most Price worthy Iphone,5
+3915,Wonderful,5
+3916,Best in the market!,5
+3917,Pretty good,5
+3918,Nice product,5
+3919,Classy product,5
+3920,Simply awesome,5
+3921,Mind-blowing purchase,5
+3922,Brilliant,5
+3923,Good choice,4
+3924,Must buy!,5
+3925,Wonderful,5
+3926,Must buy!,5
+3927,Excellent,5
+3928,Excellent,5
+3929,Excellent,4
+3930,Super!,2
+3931,Worth every penny,5
+3932,Terrific purchase,5
+3933,Good quality product,5
+3934,Terrific,5
+3935,Best in the market!,5
+3936,Perfect product!,5
+3937,Absolute rubbish!,3
+3938,Awesome,5
+3939,Just wow!,5
+3940,Super!,4
+3941,Mind-blowing purchase,5
+3942,Perfect product!,4
+3943,Classy product,5
+3944,Awesome,2
+3945,Does the job,5
+3946,Super!,5
+3947,Highly recommended,5
+3948,Brilliant,5
+3949,Must buy!,5
+3950,Best in the market!,5
+3951,Brilliant,5
+3952,Worth every penny,5
+3953,Worth every penny,3
+3954,Worth every penny,5
+3955,Awesome,5
+3956,Excellent,5
+3957,Mind-blowing purchase,5
+3958,Excellent,5
+3959,Brilliant,5
+3960,Terrific,5
+3961,Fabulous!,5
+3962,Worthless,5
+3963,Fabulous!,5
+3964,Wonderful,5
+3965,Must buy!,5
+3966,Great product,5
+3967,Just wow!,5
+3968,Wonderful,5
+3969,Wonderful,5
+3970,Simply awesome,5
+3971,Best in the market!,5
+3972,Great product,5
+3973,Terrific purchase,5
+3974,Terrific purchase,5
+3975,Mind-blowing purchase,5
+3976,Mind-blowing purchase,5
+3977,Very Good,5
+3978,Simply awesome,5
+3979,Good quality product,5
+3980,Very poor,5
+3981,Perfect product!,4
+3982,Fabulous!,5
+3983,Classy product,5
+3984,Awesome,5
+3985,Perfect product!,5
+3986,Fabulous!,5
+3987,Simply awesome,5
+3988,Wonderful,5
+3989,Terrific purchase,5
+3990,Mind-blowing purchase,5
+3991,Excellent,5
+3992,Good choice,5
+3993,Nice product,5
+3994,Brilliant,5
+3995,Perfect product!,5
+3996,Just wow!,5
+3997,Super!,5
+3998,Must buy!,5
+3999,Classy product,5
+4000,Great product,5
+4001,Classy product,5
+4002,Perfect product!,5
+4003,Highly recommended,5
+4004,Terrific,4
+4005,Simply awesome,5
+4006,Worth every penny,5
+4007,Wonderful,3
+4008,Classy product,5
+4009,Worth every penny,4
+4010,Must buy!,5
+4011,Excellent,5
+4012,Worth every penny,5
+4013,Pretty good,5
+4014,Perfect product!,3
+4015,Good choice,5
+4016,Highly recommended,5
+4017,Perfect product!,5
+4018,Perfect product!,5
+4019,Classy product,5
+4020,Worth every penny,5
+4021,Value-for-money,5
+4022,Simply awesome,5
+4023,Value-for-money,5
+4024,Perfect product!,5
+4025,Best in the market!,5
+4026,Worth every penny,5
+4027,Highly recommended,5
+4028,Highly recommended,5
+4029,Perfect product!,5
+4030,Great product,5
+4031,Fabulous!,5
+4032,Worth every penny,4
+4033,Pretty good,5
+4034,Perfect product!,5
+4035,Good choice,5
+4036,Highly recommended,5
+4037,Perfect product!,5
+4038,Perfect product!,5
+4039,Classy product,5
+4040,Worth every penny,5
+4041,Value-for-money,5
+4042,Simply awesome,5
+4043,Value-for-money,5
+4044,Perfect product!,5
+4045,Best in the market!,3
+4046,Worth every penny,5
+4047,Highly recommended,5
+4048,Highly recommended,5
+4049,Perfect product!,5
+4050,Great product,5
+4051,Fabulous!,5
+4052,Simply awesome,5
+4053,Value-for-money,5
+4054,Perfect product!,5
+4055,Best in the market!,5
+4056,Worth every penny,4
+4057,Highly recommended,5
+4058,Highly recommended,5
+4059,Perfect product!,5
+4060,Great product,5
+4061,Fabulous!,5
+4062,Simply awesome,5
+4063,Value-for-money,5
+4064,Perfect product!,5
+4065,Best in the market!,5
+4066,Worth every penny,3
+4067,Highly recommended,5
+4068,Highly recommended,5
+4069,Perfect product!,5
+4070,Great product,5
+4071,Fabulous!,4
+4072,Simply awesome,4
+4073,Value-for-money,5
+4074,Perfect product!,5
+4075,Best in the market!,5
+4076,Worth every penny,5
+4077,Highly recommended,5
+4078,Highly recommended,5
+4079,Perfect product!,5
+4080,Great product,4
+4081,Fabulous!,5
+4082,Simply awesome,5
+4083,Value-for-money,5
+4084,Perfect product!,5
+4085,Best in the market!,5
+4086,Worth every penny,5
+4087,Highly recommended,5
+4088,Highly recommended,5
+4089,Perfect product!,5
+4090,Great product,3
+4091,Fabulous!,5
+4092,Simply awesome,4
+4093,Value-for-money,5
+4094,Perfect product!,5
+4095,Best in the market!,5
+4096,Worth every penny,5
+4097,Highly recommended,3
+4098,Highly recommended,4
+4099,Perfect product!,5
+4100,Great product,5
+4101,Fabulous!,4
+4102,Worth every penny,5
+4103,genuine Product.,5
+4104,Super!,5
+4105,Worth every penny,5
+4106,Terrific,5
+4107,Great product,5
+4108,Terrific,5
+4109,Terrific,5
+4110,Terrific purchase,5
+4111,Best in the market!,5
+4112,Very Good,5
+4113,Mind-blowing purchase,5
+4114,Highly recommended,4
+4115,Best in the market!,5
+4116,Brilliant,5
+4117,Classy product,5
+4118,Terrific purchase,5
+4119,Good choice,5
+4120,Worth every penny,5
+4121,Awesome,5
+4122,Excellent,5
+4123,Perfect product!,5
+4124,Wonderful,5
+4125,Best in the market!,5
+4126,Simply awesome,5
+4127,Classy product,5
+4128,Super!,5
+4129,Worth every penny,5
+4130,Highly recommended,5
+4131,Awesome,5
+4132,Terrific purchase,5
+4133,Best in the market!,5
+4134,Must buy!,5
+4135,Excellent,5
+4136,Excellent,4
+4137,Mind-blowing purchase,5
+4138,Excellent,5
+4139,Terrible product,5
+4140,Wonderful,5
+4141,Useless product,5
+4142,Delightful,5
+4143,Wonderful,5
+4144,Brilliant,4
+4145,Terrific,5
+4146,Highly recommended,5
+4147,Fabulous!,5
+4148,Value-for-money,5
+4149,Bad quality,3
+4150,Waste of money!,4
+4151,Simply awesome,5
+4152,Classy product,5
+4153,Wonderful,5
+4154,Best in the market!,5
+4155,Excellent,5
+4156,Worth every penny,5
+4157,Decent product,5
+4158,Fabulous!,5
+4159,Awesome,4
+4160,Pretty good,5
+4161,Terrific,5
+4162,Pretty good,3
+4163,Not good,4
+4164,Terrific purchase,4
+4165,Brilliant,5
+4166,Terrible product,5
+4167,Excellent,4
+4168,Brilliant,5
+4169,Worth every penny,3
+4170,Perfect product!,5
+4171,Terrific,5
+4172,Highly recommended,4
+4173,Perfect product!,3
+4174,Does the job,5
+4175,Classy product,5
+4176,Perfect product!,5
+4177,Brilliant,5
+4178,Worth every penny,4
+4179,Great product,5
+4180,Excellent,5
+4181,Mind-blowing purchase,4
+4182,Very poor,5
+4183,Wonderful,5
+4184,Simply awesome,5
+4185,Mind-blowing purchase,5
+4186,Terrible product,5
+4187,Awesome,5
+4188,Must buy!,5
+4189,Terrific purchase,5
+4190,Worth every penny,5
+4191,Super!,5
+4192,Best in the market!,5
+4193,Perfect product!,5
+4194,Perfect product!,4
+4195,Fabulous!,3
+4196,Awesome,2
+4197,Excellent,5
+4198,Brilliant,4
+4199,Must buy!,5
+4200,Mind-blowing purchase,5
+4201,Highly recommended,4
+4202,Fabulous!,4
+4203,Super!,5
+4204,Good choice,3
+4205,Super!,5
+4206,Classy product,5
+4207,Classy product,4
+4208,Wonderful,4
+4209,Worth every penny,4
+4210,Perfect product!,5
+4211,Great product,5
+4212,Worth every penny,5
+4213,Worth every penny,5
+4214,Best in the market!,5
+4215,Wonderful,4
+4216,Mind-blowing purchase,5
+4217,Mind-blowing purchase,5
+4218,Mind-blowing purchase,5
+4219,Perfect product!,5
+4220,Great product,5
+4221,Excellent,5
+4222,Highly recommended,5
+4223,Great product,4
+4224,Classy product,5
+4225,Great product,4
+4226,Classy product,5
+4227,Really Nice,5
+4228,Super!,5
+4229,Highly recommended,4
+4230,Decent product,5
+4231,Great product,5
+4232,Good choice,5
+4233,Absolute rubbish!,5
+4234,Mind-blowing purchase,5
+4235,Highly recommended,5
+4236,Must buy!,4
+4237,Terrific purchase,5
+4238,Nice,5
+4239,Fabulous!,4
+4240,Brilliant,5
+4241,Brilliant,5
+4242,Simply awesome,5
+4243,Terrific,4
+4244,Best in the market!,5
+4245,Utterly Disappointed,2
+4246,Terrific purchase,5
+4247,Must buy!,5
+4248,Fabulous!,5
+4249,Just wow!,5
+4250,Must buy!,5
+4251,Awesome,5
+4252,Mind-blowing purchase,5
+4253,Worth every penny,5
+4254,Best in the market!,4
+4255,Terrific,5
+4256,Worth every penny,5
+4257,Really Nice,5
+4258,Worth every penny,5
+4259,Must buy!,5
+4260,Highly recommended,5
+4261,Utterly Disappointed,5
+4262,Best in the market!,5
+4263,Just wow!,5
+4264,Classy product,4
+4265,Worth every penny,5
+4266,Simply awesome,4
+4267,Just wow!,5
+4268,Excellent,5
+4269,Wonderful,4
+4270,Perfect product!,4
+4271,Nice,5
+4272,Wonderful,5
+4273,Best in the market!,5
+4274,Best in the market!,5
+4275,Perfect product!,5
+4276,Terrific purchase,5
+4277,Awesome,5
+4278,Excellent,5
+4279,Highly recommended,4
+4280,Worth every penny,5
+4281,Just wow!,4
+4282,Good quality product,4
+4283,Worth every penny,5
+4284,Classy product,5
+4285,Just wow!,5
+4286,Super!,5
+4287,Must buy!,5
+4288,Worthless,5
+4289,Worth every penny,5
+4290,Awesome,4
+4291,Great product,5
+4292,Fabulous!,5
+4293,Does the job,4
+4294,Mind-blowing purchase,5
+4295,Great product,4
+4296,Highly recommended,4
+4297,Fabulous!,5
+4298,Worth the money,5
+4299,Worth the money,5
+4300,Highly recommended,5
+4301,Simply awesome,4
+4302,Brilliant,5
+4303,Fabulous!,5
+4304,Highly recommended,5
+4305,Not recommended at all,5
+4306,Mind-blowing purchase,5
+4307,Very poor,5
+4308,Terrific,5
+4309,Very Good,5
+4310,Super!,5
+4311,Super!,4
+4312,Worth every penny,5
+4313,Wonderful,5
+4314,Classy product,5
+4315,Wonderful,5
+4316,Just wow!,5
+4317,Highly recommended,5
+4318,Simply awesome,5
+4319,Does the job,5
+4320,Brilliant,5
+4321,Nice product,5
+4322,Mind-blowing purchase,3
+4323,Best in the market!,5
+4324,Simply awesome,5
+4325,Awesome,5
+4326,Does the job,5
+4327,Worth the money,5
+4328,Terrific purchase,5
+4329,Super!,5
+4330,Nice product,5
+4331,Awesome,5
+4332,Terrific purchase,5
+4333,Excellent,5
+4334,Simply awesome,5
+4335,Terrific,5
+4336,Super!,5
+4337,Excellent,5
+4338,Must buy!,5
+4339,Mind-blowing purchase,5
+4340,Wonderful,5
+4341,Best in the market!,5
+4342,Highly recommended,5
+4343,Good choice,5
+4344,Terrific purchase,5
+4345,Fabulous!,5
+4346,Brilliant,5
+4347,Awesome,5
+4348,Terrific,5
+4349,Simply awesome,5
+4350,Terrific,5
+4351,Great product,5
+4352,Perfect product!,5
+4353,Wonderful,4
+4354,Perfect product!,5
+4355,Great product,4
+4356,Perfect product!,5
+4357,Must buy!,5
+4358,Highly recommended,5
+4359,Terrific,5
+4360,Super!,5
+4361,Must buy!,5
+4362,Perfect product!,4
+4363,Must buy!,5
+4364,Super!,4
+4365,Good quality product,5
+4366,Mind-blowing purchase,5
+4367,Brilliant,5
+4368,Worth every penny,5
+4369,Awesome,5
+4370,Highly recommended,5
+4371,Very poor,5
+4372,Terrific purchase,5
+4373,Excellent,5
+4374,Pretty good,5
+4375,Terrific,5
+4376,Perfect product!,4
+4377,Awesome,4
+4378,Perfect product!,5
+4379,Does the job,5
+4380,Good quality product,5
+4381,Best in the market!,5
+4382,Terrific,5
+4383,Perfect product!,5
+4384,Awesome,5
+4385,Best in the market!,5
+4386,Excellent,4
+4387,Terrific,4
+4388,Terrific purchase,5
+4389,Best in the market!,5
+4390,Great product,5
+4391,Great product,5
+4392,Good,5
+4393,Delightful,5
+4394,Good choice,5
+4395,Wonderful,5
+4396,Excellent,5
+4397,Worth the money,5
+4398,Brilliant,5
+4399,Good,5
+4400,Super!,5
+4401,Awesome,5
+4402,Worth the money,5
+4403,Nice,5
+4404,Simply awesome,5
+4405,Must buy!,5
+4406,Excellent,5
+4407,Mind-blowing purchase,5
+4408,Wonderful,5
+4409,Simply awesome,5
+4410,Terrific,5
+4411,Worth the money,5
+4412,Mind-blowing purchase,5
+4413,Wonderful,5
+4414,Perfect product!,5
+4415,Great product,5
+4416,Worth every penny,5
+4417,Wonderful,4
+4418,Awesome,5
+4419,Great product,4
+4420,Must buy!,5
+4421,Excellent,5
+4422,Mind-blowing purchase,5
+4423,Worthless,5
+4424,Brilliant,5
+4425,Slightly disappointed,4
+4426,Pretty good,5
+4427,Good,4
+4428,Brilliant,5
+4429,Really Nice,5
+4430,Fabulous!,5
+4431,Highly recommended,5
+4432,Hated it!,5
+4433,Wonderful,5
+4434,Pretty good,5
+4435,Must buy!,5
+4436,Just okay,5
+4437,Highly recommended,4
+4438,Brilliant,5
+4439,Wonderful,5
+4440,Good choice,5
+4441,Pretty good,5
+4442,Terrific purchase,5
+4443,Worth every penny,5
+4444,Super!,5
+4445,Wonderful,5
+4446,Classy product,5
+4447,Don't waste your money,5
+4448,Pretty good,5
+4449,Mind-blowing purchase,3
+4450,Fabulous!,5
+4451,Highly recommended,5
+4452,Best in the market!,4
+4453,Terrific purchase,5
+4454,Simply awesome,5
+4455,Worth every penny,5
+4456,Pretty good,4
+4457,Brilliant,4
+4458,Wonderful,3
+4459,Mind-blowing purchase,5
+4460,Fabulous!,4
+4461,Classy product,4
+4462,Worth the money,5
+4463,Super!,5
+4464,Wonderful,5
+4465,Simply awesome,5
+4466,Terrific,4
+4467,Awesome,5
+4468,Perfect product!,5
+4469,Delightful,5
+4470,Fabulous!,4
+4471,Excellent,5
+4472,Pretty good,5
+4473,Expected a better product,5
+4474,Just wow!,5
+4475,Mind-blowing purchase,5
+4476,Highly recommended,4
+4477,Delightful,5
+4478,Excellent,4
+4479,Worst experience ever!,4
+4480,Terrific,5
+4481,Super!,3
+4482,Just wow!,5
+4483,Fabulous!,5
+4484,Worst experience ever!,5
+4485,Awesome,5
+4486,Highly recommended,5
+4487,Excellent,5
+4488,Just wow!,4
+4489,Really Nice,5
+4490,Terrific purchase,5
+4491,Excellent,5
+4492,Highly recommended,5
+4493,Simply awesome,5
+4494,Best in the market!,5
+4495,Terrific,5
+4496,Simply awesome,5
+4497,Awesome,5
+4498,Classy product,4
+4499,Nice product,2
+4500,Super!,5
+4501,Really Nice,5
+4502,Super!,5
+4503,Best in the market!,5
+4504,Value-for-money,5
+4505,Nice product,5
+4506,Mind-blowing purchase,5
+4507,Awesome,4
+4508,Awesome,4
+4509,Terrific purchase,3
+4510,Great product,5
+4511,Fabulous!,5
+4512,Wonderful,5
+4513,Perfect product!,3
+4514,Absolute rubbish!,5
+4515,Pretty good,4
+4516,Great product,5
+4517,Wonderful,4
+4518,Nice product,5
+4519,Excellent,4
+4520,Awesome,5
+4521,Best in the market!,5
+4522,Best in the market!,5
+4523,Brilliant,5
+4524,excellent,5
+4525,Classy product,5
+4526,Really Nice,5
+4527,Classy product,4
+4528,Most Price worthy Iphone,4
+4529,Wonderful,4
+4530,Best in the market!,4
+4531,Pretty good,5
+4532,Nice product,5
+4533,Classy product,5
+4534,Simply awesome,4
+4535,Mind-blowing purchase,5
+4536,Brilliant,5
+4537,Good choice,5
+4538,Must buy!,4
+4539,Wonderful,5
+4540,Must buy!,5
+4541,Excellent,4
+4542,Excellent,5
+4543,Excellent,3
+4544,Super!,5
+4545,Worth every penny,5
+4546,Terrific purchase,5
+4547,Good quality product,4
+4548,Terrific,5
+4549,Best in the market!,5
+4550,Perfect product!,5
+4551,Absolute rubbish!,5
+4552,Awesome,4
+4553,Just wow!,4
+4554,Super!,5
+4555,Mind-blowing purchase,5
+4556,Perfect product!,4
+4557,Classy product,5
+4558,Awesome,4
+4559,Does the job,5
+4560,Super!,4
+4561,Highly recommended,5
+4562,Brilliant,4
+4563,Must buy!,5
+4564,Best in the market!,4
+4565,Brilliant,5
+4566,Worth every penny,4
+4567,Worth every penny,5
+4568,Worth every penny,3
+4569,Awesome,2
+4570,Excellent,4
+4571,Mind-blowing purchase,4
+4572,Excellent,4
+4573,Brilliant,5
+4574,Terrific,4
+4575,Fabulous!,5
+4576,Worthless,3
+4577,Fabulous!,3
+4578,Wonderful,5
+4579,Must buy!,5
+4580,Great product,5
+4581,Just wow!,4
+4582,Wonderful,5
+4583,Wonderful,4
+4584,Simply awesome,5
+4585,Best in the market!,5
+4586,Great product,5
+4587,Terrific purchase,5
+4588,Terrific purchase,5
+4589,Mind-blowing purchase,4
+4590,Mind-blowing purchase,4
+4591,Very Good,4
+4592,Simply awesome,3
+4593,Good quality product,5
+4594,Very poor,5
+4595,Perfect product!,5
+4596,Great product,5
+4597,Terrific purchase,4
+4598,Terrific purchase,5
+4599,Mind-blowing purchase,2
+4600,Mind-blowing purchase,5
+4601,Very Good,5
+4602,Simply awesome,5
+4603,Good quality product,5
+4604,Very poor,5
+4605,Perfect product!,5
+4606,Fabulous!,5
+4607,Classy product,5
+4608,Awesome,4
+4609,Perfect product!,2
+4610,Fabulous!,5
+4611,Simply awesome,4
+4612,Wonderful,5
+4613,Terrific purchase,4
+4614,Mind-blowing purchase,5
+4615,Excellent,5
+4616,Good choice,4
+4617,Nice product,5
+4618,Brilliant,5
+4619,Perfect product!,5
+4620,Just wow!,5
+4621,Super!,4
+4622,Must buy!,5
+4623,Classy product,4
+4624,Great product,5
+4625,Classy product,5
+4626,Good choice,3
+4627,Nice product,4
+4628,Brilliant,4
+4629,Perfect product!,5
+4630,Just wow!,3
+4631,Super!,5
+4632,Must buy!,5
+4633,Classy product,2
+4634,Great product,5
+4635,Classy product,5
+4636,Perfect product!,5
+4637,Highly recommended,4
+4638,Terrific,3
+4639,Simply awesome,5
+4640,Worth every penny,2
+4641,Wonderful,4
+4642,Classy product,5
+4643,Worth every penny,5
+4644,Must buy!,4
+4645,Excellent,4
+4646,Perfect product!,4
+4647,Highly recommended,3
+4648,Terrific,5
+4649,Simply awesome,4
+4650,Worth every penny,5
+4651,Wonderful,5
+4652,Classy product,5
+4653,Worth every penny,5
+4654,Must buy!,3
+4655,Excellent,5
+4656,Worth every penny,5
+4657,Pretty good,3
+4658,Perfect product!,4
+4659,Good choice,4
+4660,Highly recommended,3
+4661,Perfect product!,5
+4662,Perfect product!,5
+4663,Classy product,5
+4664,Worth every penny,2
+4665,Value-for-money,5
+4666,Simply awesome,5
+4667,Value-for-money,4
+4668,Perfect product!,5
+4669,Best in the market!,4
+4670,Worth every penny,4
+4671,Highly recommended,5
+4672,Highly recommended,4
+4673,Perfect product!,5
+4674,Great product,2
+4675,Fabulous!,5
+4676,Simply awesome,4
+4677,Value-for-money,5
+4678,Perfect product!,4
+4679,Best in the market!,3
+4680,Worth every penny,5
+4681,Highly recommended,5
+4682,Highly recommended,2
+4683,Perfect product!,4
+4684,Great product,3
+4685,Fabulous!,5
+4686,Super!,4
+4687,Awesome,2
+4688,Unsatisfactory,2
+4689,Must buy!,5
+4690,Does the job,5
+4691,Highly recommended,4
+4692,Terrific,5
+4693,Value-for-money,5
+4694,Worth every penny,3
+4695,Highly recommended,2
+4696,Must buy!,2
+4697,Worth the money,5
+4698,Really Nice,5
+4699,Nice,5
+4700,Perfect product!,5
+4701,Wonderful,4
+4702,Worth the money,5
+4703,Super!,5
+4704,Highly recommended,4
+4705,Fabulous!,5
+4706,Not recommended at all,3
+4707,Brilliant,4
+4708,Very poor,5
+4709,Pretty good,5
+4710,Just wow!,5
+4711,Simply awesome,5
+4712,Must buy!,4
+4713,Delightful,5
+4714,Must buy!,5
+4715,Just wow!,5
+4716,Classy product,5
+4717,Useless product,5
+4718,Absolute rubbish!,4
+4719,Did not meet expectations,5
+4720,Simply awesome,5
+4721,Classy product,4
+4722,Good quality product,5
+4723,Perfect product!,5
+4724,Good quality product,4
+4725,Pretty good,5
+4726,Wonderful,5
+4727,Fair,3
+4728,Terrific purchase,5
+4729,Just wow!,4
+4730,Super!,4
+4731,Highly recommended,4
+4732,Terrific,5
+4733,Terrific purchase,3
+4734,Good choice,5
+4735,Fabulous!,4
+4736,Perfect product!,5
+4737,Moderate,4
+4738,Mind-blowing purchase,5
+4739,Must buy!,4
+4740,Excellent,4
+4741,Fabulous!,5
+4742,Highly recommended,2
+4743,Fabulous!,4
+4744,Fabulous!,5
+4745,Very Good,5
+4746,Best in the market!,5
+4747,Perfect product!,5
+4748,Perfect product!,3
+4749,Highly recommended,5
+4750,Classy product,4
+4751,Must buy!,4
+4752,Terrific purchase,5
+4753,Good quality product,5
+4754,Really Nice,5
+4755,Fair,5
+4756,Best in the market!,3
+4757,Don't waste your money,5
+4758,Great product,5
+4759,Terrific purchase,5
+4760,Good,5
+4761,Must buy!,4
+4762,Waste of money!,4
+4763,Pretty good,4
+4764,Brilliant,4
+4765,Value-for-money,4
+4766,Awesome,5
+4767,Really Nice,5
+4768,Great product,3
+4769,Worth every penny,5
+4770,Terrific purchase,5
+4771,Fabulous!,4
+4772,Excellent,5
+4773,Classy product,5
+4774,Mind-blowing purchase,5
+4775,Nice product,5
+4776,Value-for-money,5
+4777,Don't waste your money,4
+4778,Value-for-money,5
+4779,Very Good,5
+4780,Classy product,5
+4781,Awesome,5
+4782,Simply awesome,5
+4783,Value-for-money,3
+4784,Wonderful,5
+4785,Wonderful,3
+4786,Worthless,3
+4787,Must buy!,5
+4788,Good choice,5
+4789,Don't waste your money,5
+4790,Waste of money!,5
+4791,Fabulous!,5
+4792,Awesome,5
+4793,Good choice,5
+4794,Don't waste your money,3
+4795,Classy product,5
+4796,Just okay,3
+4797,Must buy!,5
+4798,Terrific,5
+4799,Mind-blowing purchase,5
+4800,Worth the money,4
+4801,Classy product,5
+4802,Super!,5
+4803,Brilliant,2
+4804,Highly recommended,2
+4805,Really Nice,5
+4806,Nice product,4
+4807,Fabulous!,4
+4808,Fabulous!,5
+4809,Worth the money,3
+4810,Fabulous!,5
+4811,Pretty good,4
+4812,Best in the market!,5
+4813,Really Nice,5
+4814,Wonderful,5
+4815,Pretty good,3
+4816,Super!,5
+4817,Delightful,4
+4818,Worst experience ever!,5
+4819,Wonderful,5
+4820,Pretty good,4
+4821,Utterly Disappointed,4
+4822,Not good,5
+4823,Not recommended at all,5
+4824,Terrific,2
+4825,Nice,5
+4826,Value-for-money,4
+4827,Really Nice,4
+4828,Good choice,2
+4829,Highly recommended,5
+4830,Pretty good,5
+4831,Super!,5
+4832,Decent product,2
+4833,Just okay,5
+4834,Excellent,5
+4835,Must buy!,5
+4836,Worth every penny,4
+4837,Worth the money,3
+4838,Must buy!,5
+4839,Very Good,3
+4840,Highly recommended,2
+4841,Awesome,4
+4842,Classy product,5
+4843,Super!,5
+4844,Super!,5
+4845,Really Nice,5
+4846,Pretty good,5
+4847,Pretty good,5
+4848,Great product,5
+4849,Wonderful,5
+4850,Worth every penny,3
+4851,Classy product,5
+4852,Best in the market!,5
+4853,Not good,4
+4854,Nice product,4
+4855,Excellent,5
+4856,Great product,5
+4857,Great product,5
+4858,Simply awesome,3
+4859,Awesome,4
+4860,Brilliant,4
+4861,Just wow!,4
+4862,Must buy!,5
+4863,Moderate,4
+4864,Just wow!,5
+4865,Pretty good,3
+4866,Absolute rubbish!,4
+4867,Excellent,5
+4868,Good choice,5
+4869,Utterly Disappointed,5
+4870,Terrific purchase,5
+4871,Good choice,5
+4872,Fabulous!,5
+4873,Fabulous!,5
+4874,Nice product,4
+4875,Awesome,3
+4876,Simply awesome,4
+4877,Fabulous!,4
+4878,Highly recommended,4
+4879,Very Good,2
+4880,Hated it!,4
+4881,Absolute rubbish!,4
+4882,Great product,5
+4883,Really Nice,5
+4884,Worthless,5
+4885,Absolute rubbish!,4
+4886,Terrific,5
+4887,Best in the market!,5
+4888,Fair,5
+4889,Wonderful,5
+4890,Moderate,4
+4891,Good choice,5
+4892,Super!,5
+4893,Just okay,3
+4894,Best in the market!,5
+4895,Worth every penny,5
+4896,Horrible,4
+4897,Not recommended at all,5
+4898,Don't waste your money,5
+4899,Fabulous!,5
+4900,Great product,5
+4901,Simply awesome,5
+4902,Delightful,5
+4903,Decent product,5
+4904,Perfect product!,5
+4905,Expected a better product,5
+4906,Good quality product,4
+4907,Must buy!,5
+4908,Very poor,4
+4909,Mind-blowing purchase,4
+4910,Good quality product,5
+4911,Value-for-money,4
+4912,Don't waste your money,4
+4913,Good quality product,5
+4914,Hated it!,5
+4915,Unsatisfactory,5
+4916,Just okay,5
+4917,Brilliant,5
+4918,Unsatisfactory,4
+4919,Nice product,5
+4920,Worth every penny,5
+4921,Absolute rubbish!,5
+4922,Must buy!,5
+4923,Super!,4
+4924,Excellent,5
+4925,Does the job,5
+4926,Simply awesome,4
+4927,Moderate,4
+4928,Just wow!,5
+4929,Does the job,4
+4930,Very Good,4
+4931,Value-for-money,5
+4932,Just okay,5
+4933,Mind-blowing purchase,5
+4934,Mind-blowing purchase,5
+4935,Awesome,5
+4936,Wonderful,4
+4937,Excellent,5
+4938,Value-for-money,5
+4939,Super!,5
+4940,Delightful,5
+4941,Expected a better product,4
+4942,Wonderful,5
+4943,Just wow!,5
+4944,Good quality product,4
+4945,Worth every penny,4
+4946,Excellent,5
+4947,Bad quality,4
+4948,Good choice,4
+4949,Terrible product,5
+4950,Simply awesome,5
+4951,Wonderful,5
+4952,Nice,5
+4953,Highly recommended,5
+4954,Brilliant,4
+4955,Hated it!,5
+4956,Good quality product,5
+4957,Just okay,5
+4958,Don't waste your money,5
+4959,Awesome,4
+4960,Waste of money!,5
+4961,Really Nice,5
+4962,Expected a better product,4
+4963,Terrible product,4
+4964,Moderate,5
+4965,Very poor,4
+4966,Awesome,4
+4967,Brilliant,5
+4968,Expected a better product,5
+4969,Nice product,5
+4970,Waste of money!,5
+4971,Expected a better product,5
+4972,Awesome,4
+4973,Utterly Disappointed,5
+4974,Super!,5
+4975,Decent product,5
+4976,Absolute rubbish!,5
+4977,Worthless,4
+4978,Wonderful,5
+4979,Great product,5
+4980,Highly recommended,4
+4981,Hated it!,4
+4982,Just wow!,5
+4983,Waste of money!,4
+4984,Worth the money,4
+4985,Mind-blowing purchase,5
+4986,Classy product,5
+4987,Worth the money,5
+4988,Worth every penny,5
+4989,Utterly Disappointed,5
+4990,Decent product,4
+4991,Terrible product,5
+4992,Unsatisfactory,5
+4993,Value-for-money,5
+4994,Super!,5
+4995,Don't waste your money,4
+4996,Excellent,5
+4997,Must buy!,5
+4998,Waste of money!,4
+4999,Must buy!,4
+5000,Delightful,5
+5001,Terrific purchase,4
+5002,Wonderful,4
+5003,Just wow!,5
+5004,Excellent,5
+5005,Brilliant,5
+5006,Really Nice,5
+5007,Brilliant,5
+5008,Hated it!,4
+5009,Just wow!,5
+5010,Delightful,5
+5011,Absolute rubbish!,5
+5012,Just wow!,5
+5013,Excellent,4
+5014,Worth the money,5
+5015,Brilliant,5
+5016,Waste of money!,4
+5017,Wonderful,4
+5018,Just okay,5
+5019,Perfect product!,4
+5020,Good choice,4
+5021,Worthless,5
+5022,Worth the money,5
+5023,Worth the money,5
+5024,Terrific,5
+5025,Decent product,5
+5026,Worthless,4
+5027,Wonderful,5
+5028,Wonderful,5
+5029,Excellent,5
+5030,Really Nice,5
+5031,Perfect product!,4
+5032,Expected a better product,5
+5033,Good choice,5
+5034,Really Nice,4
+5035,Classy product,4
+5036,Good choice,5
+5037,Terrific purchase,4
+5038,Perfect product!,4
+5039,Simply awesome,5
+5040,Perfect product!,5
+5041,Fair,5
+5042,Brilliant,5
+5043,Not recommended at all,5
+5044,Very Good,4
+5045,Good quality product,5
+5046,Super!,5
+5047,Wonderful,5
+5048,Mind-blowing purchase,5
+5049,Super!,4
+5050,Decent product,5
+5051,Best in the market!,5
+5052,Wonderful,4
+5053,Terrific,4
+5054,Classy product,5
+5055,Worth the money,4
+5056,Really Nice,4
+5057,Really Nice,5
+5058,Pretty good,5
+5059,Really Nice,5
+5060,Simply awesome,5
+5061,Mind-blowing purchase,5
+5062,Does the job,5
+5063,Simply awesome,4
+5064,Fabulous!,5
+5065,Delightful,4
+5066,Fabulous!,5
+5067,Super!,4
+5068,Excellent,5
+5069,Excellent,5
+5070,Wonderful,5
+5071,Nice product,5
+5072,Terrific,5
+5073,Terrific,4
+5074,Perfect product!,3
+5075,Fabulous!,5
+5076,Simply awesome,5
+5077,Absolute rubbish!,4
+5078,Fair,5
+5079,Did not meet expectations,3
+5080,Worst experience ever!,5
+5081,Classy product,5
+5082,Nice,5
+5083,Good,5
+5084,Awesome,4
+5085,Best in the market!,5
+5086,Very poor,5
+5087,Just wow!,5
+5088,Highly recommended,4
+5089,Mind-blowing purchase,4
+5090,Classy product,5
+5091,Terrific purchase,5
+5092,Good,3
+5093,Fabulous!,5
+5094,Decent product,4
+5095,Worst experience ever!,4
+5096,Best in the market!,4
+5097,Waste of money!,5
+5098,Best in the market!,3
+5099,Awesome,5
+5100,Expected a better product,4
+5101,Pretty good,5
+5102,Expected a better product,5
+5103,Highly recommended,5
+5104,Must buy!,5
+5105,Mind-blowing purchase,4
+5106,Waste of money!,5
+5107,Good choice,5
+5108,Worth the money,5
+5109,Best in the market!,4
+5110,Just okay,5
+5111,Terrific,5
+5112,Very Good,4
+5113,Wonderful,3
+5114,Very poor,5
+5115,Brilliant,5
+5116,Just wow!,3
+5117,Just okay,5
+5118,Horrible,5
+5119,Must buy!,4
+5120,Nice product,4
+5121,Must buy!,5
+5122,Awesome,5
+5123,Very Good,5
+5124,Worth the money,4
+5125,Best in the market!,5
+5126,Perfect product!,4
+5127,Expected a better product,4
+5128,Best in the market!,3
+5129,Very Good,5
+5130,Pretty good,5
+5131,Not recommended at all,5
+5132,Bad quality,5
+5133,Just wow!,4
+5134,Classy product,5
+5135,Nice product,5
+5136,Very poor,5
+5137,Highly recommended,5
+5138,Super!,3
+5139,Excellent,5
+5140,Utterly Disappointed,5
+5141,Classy product,5
+5142,Worth the money,4
+5143,Does the job,5
+5144,Just wow!,4
+5145,Fair,5
+5146,Useless product,5
+5147,Slightly disappointed,5
+5148,Pretty good,5
+5149,Brilliant,5
+5150,Worst experience ever!,5
+5151,Fabulous!,4
+5152,Brilliant,5
+5153,Very poor,5
+5154,Super!,5
+5155,Waste of money!,5
+5156,Classy product,5
+5157,Terrible product,5
+5158,Terrific purchase,5
+5159,Super!,5
+5160,Don't waste your money,5
+5161,Great product,5
+5162,Good,5
+5163,Worst experience ever!,5
+5164,Great product,5
+5165,Worthless,5
+5166,Brilliant,5
+5167,Worst experience ever!,5
+5168,Worth the money,5
+5169,Worth the money,5
+5170,Highly recommended,5
+5171,Mind-blowing purchase,5
+5172,Brilliant,5
+5173,Does the job,4
+5174,Horrible,5
+5175,Worthless,4
+5176,Worth the money,4
+5177,Nice product,4
+5178,Delightful,5
+5179,Super!,5
+5180,Good quality product,4
+5181,Perfect product!,5
+5182,Decent product,4
+5183,Nice product,4
+5184,Terrific,5
+5185,Fabulous!,4
+5186,Worth every penny,5
+5187,Classy product,5
+5188,Slightly disappointed,3
+5189,Terrible product,4
+5190,Highly recommended,4
+5191,Simply awesome,5
+5192,Excellent,5
+5193,Value-for-money,4
+5194,Does the job,5
+5195,Good choice,5
+5196,Good choice,4
+5197,Wonderful,4
+5198,Good choice,4
+5199,Worth the money,5
+5200,Super!,4
+5201,Terrific,4
+5202,Awesome,5
+5203,Value-for-money,4
+5204,Great product,5
+5205,Terrific purchase,5
+5206,Excellent,3
+5207,Classy product,4
+5208,Delightful,4
+5209,Awesome,5
+5210,Wonderful,5
+5211,Nice,4
+5212,Brilliant,5
+5213,Terrific,5
+5214,Good choice,4
+5215,Awesome,4
+5216,Must buy!,4
+5217,Classy product,4
+5218,Fabulous!,5
+5219,Super!,5
+5220,Fabulous!,4
+5221,Best in the market!,5
+5222,Terrific,5
+5223,Highly recommended,4
+5224,Wonderful,4
+5225,Waste of money!,4
+5226,Worthless,4
+5227,Just wow!,4
+5228,Delightful,5
+5229,Good choice,4
+5230,Just wow!,2
+5231,Worth the money,2
+5232,Terrible product,5
+5233,Wonderful,5
+5234,Great product,5
+5235,Brilliant,5
+5236,Classy product,4
+5237,Simply awesome,4
+5238,Super!,5
+5239,Good choice,5
+5240,Mind-blowing purchase,5
+5241,Excellent,4
+5242,Terrific purchase,5
+5243,Must buy!,5
+5244,Not recommended at all,4
+5245,Nice product,5
+5246,Terrific,5
+5247,Highly recommended,4
+5248,Delightful,4
+5249,Good choice,5
+5250,Just wow!,4
+5251,Worth the money,5
+5252,Terrible product,4
+5253,Wonderful,5
+5254,Great product,5
+5255,Brilliant,5
+5256,Classy product,3
+5257,Simply awesome,5
+5258,Super!,5
+5259,Good choice,3
+5260,Mind-blowing purchase,5
+5261,Excellent,3
+5262,Terrific purchase,5
+5263,Must buy!,5
+5264,Not recommended at all,5
+5265,Nice product,4
+5266,Terrific,5
+5267,Highly recommended,4
+5268,Delightful,4
+5269,Good choice,3
+5270,Just wow!,5
+5271,Worth the money,5
+5272,Terrible product,4
+5273,Wonderful,5
+5274,Great product,5
+5275,Brilliant,5
+5276,Classy product,5
+5277,Simply awesome,4
+5278,Super!,5
+5279,Good choice,5
+5280,Mind-blowing purchase,5
+5281,Excellent,5
+5282,Terrific purchase,5
+5283,Must buy!,5
+5284,Not recommended at all,5
+5285,Nice product,4
+5286,Terrific,5
+5287,Highly recommended,5
+5288,Delightful,4
+5289,Good choice,3
+5290,Just wow!,3
+5291,Worth the money,5
+5292,Terrible product,5
+5293,Wonderful,2
+5294,Great product,5
+5295,Brilliant,4
+5296,Classy product,3
+5297,Simply awesome,3
+5298,Super!,5
+5299,Good choice,5
+5300,Mind-blowing purchase,2
+5301,Excellent,5
+5302,Terrific purchase,5
+5303,Must buy!,5
+5304,Not recommended at all,4
+5305,Nice product,5
+5306,Terrific,4
+5307,Highly recommended,3
+5308,Delightful,5
+5309,Good choice,5
+5310,Just wow!,5
+5311,Worth the money,5
+5312,Terrible product,5
+5313,Wonderful,5
+5314,Great product,5
+5315,Brilliant,5
+5316,Classy product,4
+5317,Simply awesome,5
+5318,Super!,5
+5319,Good choice,5
+5320,Mind-blowing purchase,4
+5321,Excellent,4
+5322,Terrific purchase,4
+5323,Must buy!,5
+5324,Not recommended at all,5
+5325,Nice product,5
+5326,Terrific,5
+5327,Highly recommended,2
+5328,Delightful,5
+5329,Good choice,4
+5330,Just wow!,5
+5331,Worth the money,5
+5332,Terrible product,5
+5333,Wonderful,5
+5334,Great product,5
+5335,Brilliant,5
+5336,Classy product,5
+5337,Simply awesome,5
+5338,Super!,5
+5339,Good choice,4
+5340,Mind-blowing purchase,5
+5341,Excellent,4
+5342,Terrific purchase,5
+5343,Must buy!,5
+5344,Not recommended at all,4
+5345,Nice product,5
+5346,Terrific,5
+5347,Highly recommended,5
+5348,Delightful,4
+5349,Good choice,4
+5350,Just wow!,5
+5351,Worth the money,5
+5352,Terrible product,4
+5353,Wonderful,5
+5354,Great product,5
+5355,Brilliant,5
+5356,Classy product,4
+5357,Simply awesome,5
+5358,Super!,5
+5359,Good choice,4
+5360,Mind-blowing purchase,4
+5361,Excellent,4
+5362,Terrific purchase,4
+5363,Must buy!,5
+5364,Not recommended at all,3
+5365,Nice product,5
+5366,Terrific,5
+5367,Highly recommended,3
+5368,Delightful,5
+5369,Good choice,4
+5370,Just wow!,5
+5371,Worth the money,5
+5372,Terrible product,5
+5373,Wonderful,5
+5374,Great product,4
+5375,Brilliant,5
+5376,Classy product,5
+5377,Simply awesome,4
+5378,Super!,5
+5379,Good choice,4
+5380,Mind-blowing purchase,4
+5381,Excellent,5
+5382,Terrific purchase,4
+5383,Must buy!,4
+5384,Not recommended at all,5
+5385,Nice product,5
+5386,Terrific,5
+5387,Highly recommended,4
+5388,Delightful,5
+5389,Good choice,4
+5390,Just wow!,4
+5391,Worth the money,5
+5392,Terrible product,4
+5393,Wonderful,4
+5394,Great product,5
+5395,Brilliant,5
+5396,Classy product,5
+5397,Simply awesome,5
+5398,Terrific,5
+5399,Super!,5
+5400,Really Nice,4
+5401,Simply awesome,5
+5402,Good choice,5
+5403,Best in the market!,5
+5404,Wonderful,5
+5405,Simply awesome,5
+5406,Just wow!,5
+5407,Must buy!,5
+5408,Best in the market!,5
+5409,Classy product,5
+5410,Delightful,5
+5411,Just okay,4
+5412,Must buy!,5
+5413,Simply awesome,5
+5414,Pretty good,5
+5415,Wonderful,5
+5416,Just okay,4
+5417,Great product,3
+5418,Great product,4
+5419,Great product,5
+5420,Just wow!,5
+5421,Good choice,4
+5422,Absolute rubbish!,4
+5423,Wonderful,5
+5424,Brilliant,4
+5425,Super!,5
+5426,Delightful,3
+5427,Good quality product,4
+5428,Just wow!,5
+5429,Wonderful,5
+5430,Good,3
+5431,Super!,5
+5432,Good quality product,4
+5433,Worth the money,5
+5434,Delightful,5
+5435,Wonderful,3
+5436,Just okay,3
+5437,Mind-blowing purchase,4
+5438,Delightful,5
+5439,Worth every penny,5
+5440,Just wow!,4
+5441,Great product,4
+5442,Wonderful,5
+5443,Delightful,4
+5444,Wonderful,5
+5445,Terrific,3
+5446,Worth every penny,4
+5447,Good choice,5
+5448,Waste of money!,5
+5449,Very poor,3
+5450,Did not meet expectations,5
+5451,Worth every penny,4
+5452,Highly recommended,5
+5453,Expected a better product,5
+5454,Delightful,3
+5455,Just okay,3
+5456,Wonderful,4
+5457,Simply awesome,5
+5458,Nice,5
+5459,Terrific purchase,4
+5460,Worth every penny,4
+5461,Good choice,5
+5462,Nice product,4
+5463,Just wow!,5
+5464,Fabulous!,3
+5465,Brilliant,4
+5466,Good choice,5
+5467,Fabulous!,5
+5468,Worth the money,3
+5469,Worth the money,5
+5470,Decent product,4
+5471,Mind-blowing purchase,5
+5472,Perfect product!,5
+5473,Really Nice,3
